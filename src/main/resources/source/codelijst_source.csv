@@ -1,0 +1,1059 @@
+uri,type,dc.id,collection,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
+colt:parameters,skos:Collection,parameters,,,Collectie van parameters.,,,,,,,,,,,,,cs,parameter,,,,,,
+ct:10_2_FTS,skos:Concept,10_2_FTS,colt:parameters,,10:2 fluortelomeersulfonzuur (10:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:10_2_FTS,skos:Concept,10_2_FTS,colt:parameters,,10:2 fluortelomeersulfonzuur (10:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:10_2_FTS,skos:Concept,10_2_FTS,colt:parameters,,10:2 fluortelomeersulfonzuur (10:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:1112TCA,skos:Concept,1112TCA,colt:parameters,,"1,1,1,2-Tetrachloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:111TCA,skos:Concept,111TCA,colt:parameters,,"1,1,1-trichloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:1122TCA,skos:Concept,1122TCA,colt:parameters,,"1,1,2,2-Tetrachloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:112TCA,skos:Concept,112TCA,colt:parameters,,"1,1,2-trichloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11Cl_PF3ONS,skos:Concept,11Cl_PF3ONS,colt:parameters,,11-chlooreicosafluor-3-oxanonaansulfonzuur (11Cl-PF3ONS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11Cl_PF3ONS,skos:Concept,11Cl_PF3ONS,colt:parameters,,11-chlooreicosafluor-3-oxanonaansulfonzuur (11Cl-PF3ONS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11Cl_PF3ONS,skos:Concept,11Cl_PF3ONS,colt:parameters,,11-chlooreicosafluor-3-oxanonaansulfonzuur (11Cl-PF3ONS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11Cl_PF3OUnDS,skos:Concept,11Cl_PF3OUnDS,colt:parameters,,11-chlooreicosafluoro-3-oxaundecaansulfonzuur (11Cl-PF3OUnDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11Cl_PF3OUnDS,skos:Concept,11Cl_PF3OUnDS,colt:parameters,,11-chlooreicosafluoro-3-oxaundecaansulfonzuur (11Cl-PF3OUnDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11Cl_PF3OUnDS,skos:Concept,11Cl_PF3OUnDS,colt:parameters,,11-chlooreicosafluoro-3-oxaundecaansulfonzuur (11Cl-PF3OUnDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11DCA,skos:Concept,11DCA,colt:parameters,,"1,1-Dichloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11DCE,skos:Concept,11DCE,colt:parameters,,"1,1-Dichlooretheen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:11DCPE,skos:Concept,11DCPE,colt:parameters,,"1,1-Dichloorpropeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:123TCB,skos:Concept,123TCB,colt:parameters,,"1,2,3-Trichloorbenzeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:123TCPA,skos:Concept,123TCPA,colt:parameters,,"1,2,3-Trichloropropaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:123TMB,skos:Concept,123TMB,colt:parameters,,"1,2,3-Trimethylbenzeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:124TCB,skos:Concept,124TCB,colt:parameters,,"1,2,4-Trichloorbenzeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:124TMB,skos:Concept,124TMB,colt:parameters,,"1,2,4-Trimethylbenzeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Br_CH2CH2_Br,skos:Concept,Br_CH2CH2_Br,colt:parameters,,"1,2-dibromo-ethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dibrclprop,skos:Concept,dibrclprop,colt:parameters,,"1,2-Dibroom-3-chloorpropaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CH2Br2,skos:Concept,CH2Br2,colt:parameters,,"1,2-Dibroom-ethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:12DCA,skos:Concept,12DCA,colt:parameters,,"1,2-dichloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:12DCE_c,skos:Concept,12DCE_c,colt:parameters,,"1,2-Dichlooretheen (cis)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:12DCE_t,skos:Concept,12DCE_t,colt:parameters,,"1,2-Dichlooretheen (trans)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:12DCPA,skos:Concept,12DCPA,colt:parameters,,"1,2-dichloorpropaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:135TCB,skos:Concept,135TCB,colt:parameters,,"1,3,5-Trichloorbenzeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:135TMB,skos:Concept,135TMB,colt:parameters,,"1,3,5-Trimethylbenzeen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:13DCPA,skos:Concept,13DCPA,colt:parameters,,"1,3-Dichloorpropaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:13DCPE_cis,skos:Concept,13DCPE_cis,colt:parameters,,"1,3-Dichloorpropeen (cis)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:13DCPE_trans,skos:Concept,13DCPE_trans,colt:parameters,,"1,3-Dichloorpropeen (trans)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:H4PFOS,skos:Concept,H4PFOS,colt:parameters,,"1H,1H,2H,2H-perfluorooctaansulfonzuur (H4PFOS)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:H4PFOS,skos:Concept,H4PFOS,colt:parameters,,"1H,1H,2H,2H-perfluorooctaansulfonzuur (H4PFOS)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:H4PFOS,skos:Concept,H4PFOS,colt:parameters,,"1H,1H,2H,2H-perfluorooctaansulfonzuur (H4PFOS)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:1H_benzotriazole,skos:Concept,1H_benzotriazole,colt:parameters,,1H-benzotriazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:22DCPA,skos:Concept,22DCPA,colt:parameters,,"2,2-Dichloorpropaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:245t,skos:Concept,245t,colt:parameters,,"2,4,5-T",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:24d,skos:Concept,24d,colt:parameters,,"2,4-D",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:24db,skos:Concept,24db,colt:parameters,,"2,4-DB",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:BAM,skos:Concept,BAM,colt:parameters,,"2,6-Dichlorobenzamide (BAM)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4H_PFUnDA,skos:Concept,4H_PFUnDA,colt:parameters,,"2H,2H,3H,3H-perfluorundecaanzuur (4H-PFUnDA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4H_PFUnDA,skos:Concept,4H_PFUnDA,colt:parameters,,"2H,2H,3H,3H-perfluorundecaanzuur (4H-PFUnDA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4H_PFUnDA,skos:Concept,4H_PFUnDA,colt:parameters,,"2H,2H,3H,3H-perfluorundecaanzuur (4H-PFUnDA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:2_hydroxy_atrazine,skos:Concept,2_hydroxy_atrazine,colt:parameters,,2-hydroxy-atrazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:3_ethyltolueen,skos:Concept,3_ethyltolueen,colt:parameters,,3-ethyltolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4_2_FTS,skos:Concept,4_2_FTS,colt:parameters,,4:2 fluortelomeersulfonzuur (4:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4_2_FTS,skos:Concept,4_2_FTS,colt:parameters,,4:2 fluortelomeersulfonzuur (4:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4_2_FTS,skos:Concept,4_2_FTS,colt:parameters,,4:2 fluortelomeersulfonzuur (4:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DONA,skos:Concept,DONA,colt:parameters,,"4,8-dioxa-3H-perfluornonaanzuur (DONA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DONA,skos:Concept,DONA,colt:parameters,,"4,8-dioxa-3H-perfluornonaanzuur (DONA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DONA,skos:Concept,DONA,colt:parameters,,"4,8-dioxa-3H-perfluornonaanzuur (DONA))",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4CPA,skos:Concept,4CPA,colt:parameters,,4CPA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:4_ethyltolueen,skos:Concept,4_ethyltolueen,colt:parameters,,4-ethyltolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:5ClB,skos:Concept,5ClB,colt:parameters,,5ClB,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:5_methyl_1H_benzotriazole,skos:Concept,5_methyl_1H_benzotriazole,colt:parameters,,5-methyl-1H-benzotriazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_8_2_diPAP,skos:Concept,6_2_8_2_diPAP,colt:parameters,,6:2/8:2 fluortelomeerfosfaat diester (6:2/8:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_8_2_diPAP,skos:Concept,6_2_8_2_diPAP,colt:parameters,,6:2/8:2 fluortelomeerfosfaat diester (6:2/8:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_8_2_diPAP,skos:Concept,6_2_8_2_diPAP,colt:parameters,,6:2/8:2 fluortelomeerfosfaat diester (6:2/8:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_diPAP,skos:Concept,6_2_diPAP,colt:parameters,,6:2 fluortelomeerfosfaat diester (6:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_diPAP,skos:Concept,6_2_diPAP,colt:parameters,,6:2 fluortelomeerfosfaat diester (6:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_diPAP,skos:Concept,6_2_diPAP,colt:parameters,,6:2 fluortelomeerfosfaat diester (6:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_PAP,skos:Concept,6_2_PAP,colt:parameters,,6:2 fluortelomeerfosfaat monoester (6:2 PAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_PAP,skos:Concept,6_2_PAP,colt:parameters,,6:2 fluortelomeerfosfaat monoester (6:2 PAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_PAP,skos:Concept,6_2_PAP,colt:parameters,,6:2 fluortelomeerfosfaat monoester (6:2 PAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_FTS,skos:Concept,6_2_FTS,colt:parameters,,6:2 fluortelomeersulfonzuur (6:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_FTS,skos:Concept,6_2_FTS,colt:parameters,,6:2 fluortelomeersulfonzuur (6:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:6_2_FTS,skos:Concept,6_2_FTS,colt:parameters,,6:2 fluortelomeersulfonzuur (6:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HPFHpA,skos:Concept,HPFHpA,colt:parameters,,7H-perfluorheptaanzuur (HPFHpA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HPFHpA,skos:Concept,HPFHpA,colt:parameters,,7H-perfluorheptaanzuur (HPFHpA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HPFHpA,skos:Concept,HPFHpA,colt:parameters,,7H-perfluorheptaanzuur (HPFHpA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_diPAP,skos:Concept,8_2_diPAP,colt:parameters,,8:2 fluortelomeerfosfaat diester (8:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_diPAP,skos:Concept,8_2_diPAP,colt:parameters,,8:2 fluortelomeerfosfaat diester (8:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_diPAP,skos:Concept,8_2_diPAP,colt:parameters,,8:2 fluortelomeerfosfaat diester (8:2 diPAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_PAP,skos:Concept,8_2_PAP,colt:parameters,,8:2 fluortelomeerfosfaat monoester (8:2 PAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_PAP,skos:Concept,8_2_PAP,colt:parameters,,8:2 fluortelomeerfosfaat monoester (8:2 PAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_PAP,skos:Concept,8_2_PAP,colt:parameters,,8:2 fluortelomeerfosfaat monoester (8:2 PAP),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_FTUCA,skos:Concept,8_2_FTUCA,colt:parameters,,8:2 fluortelomeer onverzadigd carboxylzuur (8:2 FTUCA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_FTUCA,skos:Concept,8_2_FTUCA,colt:parameters,,8:2 fluortelomeer onverzadigd carboxylzuur (8:2 FTUCA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_FTUCA,skos:Concept,8_2_FTUCA,colt:parameters,,8:2 fluortelomeer onverzadigd carboxylzuur (8:2 FTUCA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_FTS,skos:Concept,8_2_FTS,colt:parameters,,8:2 fluortelomeersulfonzuur (8:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_FTS,skos:Concept,8_2_FTS,colt:parameters,,8:2 fluortelomeersulfonzuur (8:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:8_2_FTS,skos:Concept,8_2_FTS,colt:parameters,,8:2 fluortelomeersulfonzuur (8:2 FTS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:9Cl_PF3ONS,skos:Concept,9Cl_PF3ONS,colt:parameters,,9-Chloorhexadecafluor-3-oxanonaansulfonzuur (9Cl-PF3ONS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:9Cl_PF3ONS,skos:Concept,9Cl_PF3ONS,colt:parameters,,9-Chloorhexadecafluor-3-oxanonaansulfonzuur (9Cl-PF3ONS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:9Cl_PF3ONS,skos:Concept,9Cl_PF3ONS,colt:parameters,,9-Chloorhexadecafluor-3-oxanonaansulfonzuur (9Cl-PF3ONS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:compacte_laag,skos:Concept,compacte_laag,colt:parameters,,Aanwezigheid compacte laag,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:drainage_aanwezig,skos:Concept,drainage_aanwezig,colt:parameters,,Aanwezigheid drainage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ijzeroerlaag,skos:Concept,ijzeroerlaag,colt:parameters,,Aanwezigheid ijzeroerlaag,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:roest,skos:Concept,roest,colt:parameters,,Aanwezigheid roest,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:schelpresten,skos:Concept,schelpresten,colt:parameters,,Aanwezigheid schelpresten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bijmenging,skos:Concept,bijmenging,colt:parameters,,Aard van de stenige bijmenging,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:AOX,skos:Concept,AOX,colt:parameters,,Absorbeerbare Organohalogeenverbindingen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:acenafteen,skos:Concept,acenafteen,colt:parameters,,acenafteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:acenaftyleen,skos:Concept,acenaftyleen,colt:parameters,,acenaftyleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Acetamiprid,skos:Concept,Acetamiprid,colt:parameters,,Acetamiprid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:acetochlor_ESA,skos:Concept,acetochlor_ESA,colt:parameters,,acetochlor-ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:acetochlor_OA,skos:Concept,acetochlor_OA,colt:parameters,,acetochlor-OA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:aclonifen,skos:Concept,aclonifen,colt:parameters,,aclonifen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Acrylam,skos:Concept,Acrylam,colt:parameters,,Acrylamide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Advanced_Triaxiaal_testing,skos:Concept,Advanced_Triaxiaal_testing,colt:parameters,,Advanced Triaxiaal testing,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Aeromon,skos:Concept,Aeromon,colt:parameters,,Aeromonas,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:%AfwijkBalans,skos:Concept,%AfwijkBalans,colt:parameters,,AfwijkingBalans%,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CO2ag,skos:Concept,CO2ag,colt:parameters,,aggresief kooldioxide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:horizont_Ah_Ap_dikte,skos:Concept,horizont_Ah_Ap_dikte,colt:parameters,,Ah of Ap horizont - dikte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ala,skos:Concept,Ala,colt:parameters,,Alachloor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:alachlor_ESA,skos:Concept,alachlor_ESA,colt:parameters,,alachlor-ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:alachlor_OA,skos:Concept,alachlor_OA,colt:parameters,,alachlor-OA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:aldrin,skos:Concept,aldrin,colt:parameters,,Aldrin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ahch,skos:Concept,ahch,colt:parameters,,alfa-HCH,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:alkaliniteit_tov_fenolftaleine,skos:Concept,alkaliniteit_tov_fenolftaleine,colt:parameters,,alkaliniteit t.o.v. fenolftaleine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:alkaliniteit_tov_methyloranje,skos:Concept,alkaliniteit_tov_methyloranje,colt:parameters,,alkaliniteit t.o.v. methyloranje,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Al,skos:Concept,Al,colt:parameters,,Aluminium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Al,skos:Concept,Al,colt:parameters,,Aluminium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:AMETRYN,skos:Concept,AMETRYN,colt:parameters,,Ametryn,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Amidotriz,skos:Concept,Amidotriz,colt:parameters,,Amidotrizoïnezuur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NH4,skos:Concept,NH4,colt:parameters,,Ammonium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:AMPA,skos:Concept,AMPA,colt:parameters,,AMPA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:an_det,skos:Concept,an_det,colt:parameters,,anionische detergenten (alkylbenzeensulfonaat),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:anorganische_c_perc,skos:Concept,anorganische_c_perc,colt:parameters,,Anorganische C - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sb,skos:Concept,Sb,colt:parameters,,Antimoon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:antraceen,skos:Concept,antraceen,colt:parameters,,antraceen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:As,skos:Concept,As,colt:parameters,,Arseen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:As,skos:Concept,As,colt:parameters,,Arseen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Asgehalte,skos:Concept,Asgehalte,colt:parameters,,Asgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:atenolol,skos:Concept,atenolol,colt:parameters,,atenolol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:atraton,skos:Concept,atraton,colt:parameters,,atraton,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Atraz,skos:Concept,Atraz,colt:parameters,,Atrazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:azinfos_ethyl,skos:Concept,azinfos_ethyl,colt:parameters,,azinfos-ethyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:azinfos_methyl,skos:Concept,azinfos_methyl,colt:parameters,,azinfos-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:azoxystrobin,skos:Concept,azoxystrobin,colt:parameters,,azoxystrobin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ban_Schim,skos:Concept,Ban_Schim,colt:parameters,,Banale Schimmels en gisten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ba,skos:Concept,Ba,colt:parameters,,Barium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:begrazing,skos:Concept,begrazing,colt:parameters,,Begrazing,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_instrument,skos:Concept,bodembemonstering_instrument,colt:parameters,,Bemonsteringsinstrument bodem,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benfluralin,skos:Concept,Benfluralin,colt:parameters,,Benfluralin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Bentaz,skos:Concept,Bentaz,colt:parameters,,Bentazon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benthiavalicarb_isopropyl,skos:Concept,Benthiavalicarb_isopropyl,colt:parameters,,Benthiavalicarb-isopropyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:C6H6,skos:Concept,C6H6,colt:parameters,,Benzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:benzoaantraceen,skos:Concept,benzoaantraceen,colt:parameters,,benzo(a)antraceen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benzoa,skos:Concept,Benzoa,colt:parameters,,Benzo(a)antraceen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:benzoapyreen,skos:Concept,benzoapyreen,colt:parameters,,benzo(a)pyreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benzoap,skos:Concept,Benzoap,colt:parameters,,Benzo(a)pyreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:benzobfluoranteen,skos:Concept,benzobfluoranteen,colt:parameters,,benzo(b)fluoranteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benzob,skos:Concept,Benzob,colt:parameters,,Benzo(b)Fluoranteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:benzoghiperyleen,skos:Concept,benzoghiperyleen,colt:parameters,,benzo(ghi)peryleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benzoghi,skos:Concept,Benzoghi,colt:parameters,,Benzo(ghi)peryleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:benzokfluoranteen,skos:Concept,benzokfluoranteen,colt:parameters,,benzo(k)fluoranteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Benzok,skos:Concept,Benzok,colt:parameters,,Benzo(k)Fluoranteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Bepaling_kleihoudendheid,skos:Concept,Bepaling_kleihoudendheid,colt:parameters,,Bepaling kleihoudendheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:H_berekend,skos:Concept,H_berekend,colt:parameters,,Berekende hardheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Be,skos:Concept,Be,colt:parameters,,Beryllium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bhch,skos:Concept,bhch,colt:parameters,,beta-HCH,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bewaard_bodemmonster_opslaglocatie,skos:Concept,bewaard_bodemmonster_opslaglocatie,colt:parameters,,Bewaard bodemmonster opslaglocatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bewaard_bodemmonster_type_bewaring_vooraf,skos:Concept,bewaard_bodemmonster_type_bewaring_vooraf,colt:parameters,,Bewaard bodemmonster type bewaring vooraf monstervoorbereiding,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bewaard_bodemmonster_voorbereiding_type_breken,skos:Concept,bewaard_bodemmonster_voorbereiding_type_breken,colt:parameters,,Bewaard bodemmonster voorbereiding type breken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bewaard_bodemmonster_voorbereiding_type_droging,skos:Concept,bewaard_bodemmonster_voorbereiding_type_droging,colt:parameters,,Bewaard bodemmonster voorbereiding type droging,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bewaard_bodemmonster_voorbereiding_type_malen,skos:Concept,bewaard_bodemmonster_voorbereiding_type_malen,colt:parameters,,Bewaard bodemmonster voorbereiding type malen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bewaard_bodemmonster_voorbereiding_type_zeven,skos:Concept,bewaard_bodemmonster_voorbereiding_type_zeven,colt:parameters,,Bewaard bodemmonster voorbereiding type zeven,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:beworteling_diepte,skos:Concept,beworteling_diepte,colt:parameters,,Beworteling diepte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Bezafibraat,skos:Concept,Bezafibraat,colt:parameters,,Bezafibraat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HCO3,skos:Concept,HCO3,colt:parameters,,Bicarbonaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:H_HCO3,skos:Concept,H_HCO3,colt:parameters,,Bicarbonaathardheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:BOD,skos:Concept,BOD,colt:parameters,,Biologische zuurstofbehoefte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Bixafen,skos:Concept,Bixafen,colt:parameters,,Bixafen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:H_blijvende,skos:Concept,H_blijvende,colt:parameters,,Blijvende Hardheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembedekking_landgebruiksbestand,skos:Concept,bodembedekking_landgebruiksbestand,colt:parameters,,Bodembedekking landgebruiksbestand Vlaanderen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_cmon_steken_ander_landgebruik,skos:Concept,bodembemonstering_cmon_steken_ander_landgebruik,colt:parameters,,Bodembemonstering Cmon steken niet uitgevoerd ander landgebruik,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_obstakel_diepte,skos:Concept,bodembemonstering_obstakel_diepte,colt:parameters,,Bodembemonstering obstakel in de diepte - locatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_obstakel_type,skos:Concept,bodembemonstering_obstakel_type,colt:parameters,,Bodembemonstering obstakel in de diepte - type,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_obstakels,skos:Concept,bodembemonstering_obstakels,colt:parameters,,Bodembemonstering obstakels in de diepte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_steek_niet_uitgevoerd_locatie,skos:Concept,bodembemonstering_steek_niet_uitgevoerd_locatie,colt:parameters,,Bodembemonstering steek niet uitgevoerd - locatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_steek_niet_uitgevoerd_reden,skos:Concept,bodembemonstering_steek_niet_uitgevoerd_reden,colt:parameters,,Bodembemonstering steek niet uitgevoerd - reden,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodembemonstering_steken_niet_uitgevoerd,skos:Concept,bodembemonstering_steken_niet_uitgevoerd,colt:parameters,,Bodembemonstering steken niet uitgevoerd,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemgebruik,skos:Concept,bodemgebruik,colt:parameters,,Bodemgebruik,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemgebruik_aardewerk,skos:Concept,bodemgebruik_aardewerk,colt:parameters,,Bodemgebruik Aardewerk,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemmonster_type_matrix,skos:Concept,bodemmonster_type_matrix,colt:parameters,,Bodemmonster type matrix,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemmonster_type_verstoring,skos:Concept,bodemmonster_type_verstoring,colt:parameters,,Bodemmonster type verstoring,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemmonster_zeefrest_2mm,skos:Concept,bodemmonster_zeefrest_2mm,colt:parameters,,Bodemmonster zeefrest groter dan 2 mm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemtoestand,skos:Concept,bodemtoestand,colt:parameters,,Bodemtoestand,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bodemverstoring,skos:Concept,bodemverstoring,colt:parameters,,Bodemverstoring,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:B,skos:Concept,B,colt:parameters,,Boor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Boscalid,skos:Concept,Boscalid,colt:parameters,,Boscalid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_diepte,skos:Concept,gley_diepte,colt:parameters,,Bovengrens van gleyverschijnselen (t.o.v. maaiveld),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:BrO3,skos:Concept,BrO3,colt:parameters,,Bromaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:brom,skos:Concept,brom,colt:parameters,,Bromacil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Br,skos:Concept,Br,colt:parameters,,Bromide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CHBr3,skos:Concept,CHBr3,colt:parameters,,Bromoform,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bromofos_ethyl,skos:Concept,bromofos_ethyl,colt:parameters,,bromofos-ethyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bromofos_methyl,skos:Concept,bromofos_methyl,colt:parameters,,bromofos-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Bromoxynil,skos:Concept,Bromoxynil,colt:parameters,,Bromoxynil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:BrB,skos:Concept,BrB,colt:parameters,,broombenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CH2ClBr,skos:Concept,CH2ClBr,colt:parameters,,Broomchloormethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CHCl2Br,skos:Concept,CHCl2Br,colt:parameters,,Broomdichloormethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CH3Br,skos:Concept,CH3Br,colt:parameters,,Broommethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CBrCl3,skos:Concept,CBrCl3,colt:parameters,,Broomtrichloormethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bufcap_pH_4_4,skos:Concept,bufcap_pH_4_4,colt:parameters,,"Buffercapaciteit bij pH=4,4",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bufcap_pH_8_3,skos:Concept,bufcap_pH_8_3,colt:parameters,,"Buffercapaciteit bij pH=8,3",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bulkdensiteit_2mm_vs_totale_volume_gemeten,skos:Concept,bulkdensiteit_2mm_vs_totale_volume_gemeten,colt:parameters,,Bulkdensiteit bodem < 2 mm vs totale volume - gemeten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bulkdensiteit_2mm_vs_totale_volume_gemeten_average,skos:Concept,bulkdensiteit_2mm_vs_totale_volume_gemeten_average,colt:parameters,,Bulkdensiteit bodem < 2 mm vs totale volume - gemeten gemiddelde,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bulkdensiteit_totaal_gemeten,skos:Concept,bulkdensiteit_totaal_gemeten,colt:parameters,,Bulkdensiteit bodem totaal - gemeten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:bulkdensiteit_totaal_gemeten_average,skos:Concept,bulkdensiteit_totaal_gemeten_average,colt:parameters,,Bulkdensiteit bodem totaal - gemeten gemiddelde,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:cadmium,skos:Concept,cadmium,colt:parameters,,Cadmium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cd,skos:Concept,Cd,colt:parameters,,Cadmium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cd,skos:Concept,Cd,colt:parameters,,Cadmium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ca,skos:Concept,Ca,colt:parameters,,Calcium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:caco3_gehalte,skos:Concept,caco3_gehalte,colt:parameters,,Calciumcarbonaatgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ca_na_koken,skos:Concept,Ca_na_koken,colt:parameters,,Calcium na koken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Carbamazepine,skos:Concept,Carbamazepine,colt:parameters,,Carbamazepine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Carba,skos:Concept,Carba,colt:parameters,,Carbamazepine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Carben,skos:Concept,Carben,colt:parameters,,Carbendazim,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Carbet,skos:Concept,Carbet,colt:parameters,,Carbetamide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Carbof,skos:Concept,Carbof,colt:parameters,,Carbofuran,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CO3,skos:Concept,CO3,colt:parameters,,Carbonaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:carbophenothion,skos:Concept,carbophenothion,colt:parameters,,carbophenothion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CC14_extractie,skos:Concept,CC14_extractie,colt:parameters,,CC14 extractie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:cis_chlor,skos:Concept,cis_chlor,colt:parameters,,c_chlordaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:cec_totaal,skos:Concept,cec_totaal,colt:parameters,,CEC totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:COD,skos:Concept,COD,colt:parameters,,Chemische zuurstofbehoefte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:c_heptachloorepoxide,skos:Concept,c_heptachloorepoxide,colt:parameters,,c_heptachloorepoxide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:C6H5Cl,skos:Concept,C6H5Cl,colt:parameters,,Chloorbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chloorbromuron,skos:Concept,Chloorbromuron,colt:parameters,,Chloorbromuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chloorethaan,skos:Concept,Chloorethaan,colt:parameters,,Chloorethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clproph,skos:Concept,Clproph,colt:parameters,,Chloorpropharm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chlortol,skos:Concept,Chlortol,colt:parameters,,Chloortoluron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ClO3,skos:Concept,ClO3,colt:parameters,,Chloraat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chlorantraniliprole,skos:Concept,Chlorantraniliprole,colt:parameters,,Chlorantraniliprole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chlorfenvinfos_E,skos:Concept,chlorfenvinfos_E,colt:parameters,,chlorfenvinfos-E,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chlorfenvinfos_Z,skos:Concept,chlorfenvinfos_Z,colt:parameters,,chlorfenvinfos-Z,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chloridaz,skos:Concept,Chloridaz,colt:parameters,,Chloridazon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cl,skos:Concept,Cl,colt:parameters,,Chloriden,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chlormequat,skos:Concept,Chlormequat,colt:parameters,,Chlormequat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chloroform,skos:Concept,chloroform,colt:parameters,,chloroform,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chloroxur,skos:Concept,Chloroxur,colt:parameters,,Chloroxuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chlorpyrifos_ethyl,skos:Concept,chlorpyrifos_ethyl,colt:parameters,,chlorpyrifos-ethyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chlorpyrifos_methyl,skos:Concept,chlorpyrifos_methyl,colt:parameters,,chlorpyrifos-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cr,skos:Concept,Cr,colt:parameters,,Chroom,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cr,skos:Concept,Cr,colt:parameters,,Chroom,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chryseen,skos:Concept,chryseen,colt:parameters,,chryseen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Chrys,skos:Concept,Chrys,colt:parameters,,Chryseen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:cis_1_2_dichloorethaan,skos:Concept,cis_1_2_dichloorethaan,colt:parameters,,"cis 1,2-dichloorethaan",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clarid,skos:Concept,Clarid,colt:parameters,,Claritromycine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clindamycine,skos:Concept,Clindamycine,colt:parameters,,Clindamycine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clomazone,skos:Concept,Clomazone,colt:parameters,,Clomazone,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clopi,skos:Concept,Clopi,colt:parameters,,Clopidol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clopyralid,skos:Concept,Clopyralid,colt:parameters,,Clopyralid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clostr_per,skos:Concept,Clostr_per,colt:parameters,,Clostridia perfringens,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clothianidin,skos:Concept,Clothianidin,colt:parameters,,Clothianidin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clozapine,skos:Concept,Clozapine,colt:parameters,,Clozapine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:cn_ratio,skos:Concept,cn_ratio,colt:parameters,,C/N ratio,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Co,skos:Concept,Co,colt:parameters,,Cobalt,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Co,skos:Concept,Co,colt:parameters,,Cobalt,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Col,skos:Concept,Col,colt:parameters,,Coliformen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:consistentie,skos:Concept,consistentie,colt:parameters,,Consistentie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Consistentiegrenzen_Plasticiteitsindex,skos:Concept,Consistentiegrenzen_Plasticiteitsindex,colt:parameters,,Consistentiegrenzen - Plasticiteitsindex,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Consistentiegrenzen_Uitrolgrens,skos:Concept,Consistentiegrenzen_Uitrolgrens,colt:parameters,,Consistentiegrenzen - Uitrolgrens,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Consistentiegrenzen_Vloeigrens,skos:Concept,Consistentiegrenzen_Vloeigrens,colt:parameters,,Consistentiegrenzen - Vloeigrens,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:consistentie_kleverigheid,skos:Concept,consistentie_kleverigheid,colt:parameters,,Consistentie - kleverigheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:consistentie_plasticiteit,skos:Concept,consistentie_plasticiteit,colt:parameters,,Consistentie - plasticiteit,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CRS,skos:Concept,CRS,colt:parameters,,Constant rate of strain (CRS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:coordinaat_bonne_e,skos:Concept,coordinaat_bonne_e,colt:parameters,,Coördinaat - Bonne - E,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:coordinaat_bonne_n,skos:Concept,coordinaat_bonne_n,colt:parameters,,Coördinaat - Bonne - N,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:coordinaat_bonne_s,skos:Concept,coordinaat_bonne_s,colt:parameters,,Coördinaat - Bonne - S,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:coordinaat_bonne_w,skos:Concept,coordinaat_bonne_w,colt:parameters,,Coördinaat - Bonne - W,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:couma,skos:Concept,couma,colt:parameters,,coumafos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Crota,skos:Concept,Crota,colt:parameters,,Crotamiton,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cyana,skos:Concept,Cyana,colt:parameters,,Cyanazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CN,skos:Concept,CN,colt:parameters,,Cyanide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:cyclohexaan,skos:Concept,cyclohexaan,colt:parameters,,Cyclohexaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cyflufenamide,skos:Concept,Cyflufenamide,colt:parameters,,Cyflufenamide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cyproconazole,skos:Concept,Cyproconazole,colt:parameters,,Cyproconazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cyprodinil,skos:Concept,Cyprodinil,colt:parameters,,Cyprodinil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cyromazin,skos:Concept,Cyromazin,colt:parameters,,Cyromazin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DEET,skos:Concept,DEET,colt:parameters,,DEET,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dhch,skos:Concept,dhch,colt:parameters,,delta-HCH,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:demeton_S,skos:Concept,demeton_S,colt:parameters,,demeton-S,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:atr_des,skos:Concept,atr_des,colt:parameters,,Desethylatrazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Terbu_des,skos:Concept,Terbu_des,colt:parameters,,Desethylterbuthylazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Atr_desisoprop,skos:Concept,Atr_desisoprop,colt:parameters,,Desisopropylatrazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DESMETRYN,skos:Concept,DESMETRYN,colt:parameters,,Desmetryn,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dchdzn,skos:Concept,Dchdzn,colt:parameters,,Desphenyl-Chloridazon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:boor_diameter,skos:Concept,boor_diameter,colt:parameters,,Diameter van de boor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Diatrizoaat,skos:Concept,Diatrizoaat,colt:parameters,,Diatrizoaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:diazinon,skos:Concept,diazinon,colt:parameters,,diazinon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dibenzoahantraceen,skos:Concept,Dibenzoahantraceen,colt:parameters,,"Dibenzo(a,h)antraceen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dibenzshantraceen,skos:Concept,dibenzshantraceen,colt:parameters,,dibenz(sh)antraceen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CHClBr2,skos:Concept,CHClBr2,colt:parameters,,Dibroomchloormethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dibroommethaan,skos:Concept,Dibroommethaan,colt:parameters,,Dibroommethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dicam,skos:Concept,Dicam,colt:parameters,,Dicamba,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dichlob,skos:Concept,dichlob,colt:parameters,,Dichlobenil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dichloormethaan,skos:Concept,dichloormethaan,colt:parameters,,dichloormethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dichlorpr,skos:Concept,Dichlorpr,colt:parameters,,Dichloorprop,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dichlorobenzophenone,skos:Concept,dichlorobenzophenone,colt:parameters,,dichlorobenzophenone,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dichlorvos,skos:Concept,dichlorvos,colt:parameters,,dichlorvos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Diclofenac,skos:Concept,Diclofenac,colt:parameters,,Diclofenac,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dield,skos:Concept,dield,colt:parameters,,Dieldrin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:watertafel_ghg,skos:Concept,watertafel_ghg,colt:parameters,,Diepte gemiddeld hoogste (grond)watertafel t.o.v. maaiveld - ghg,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:watertafel_glg,skos:Concept,watertafel_glg,colt:parameters,,Diepte gemiddeld laagste (grond)watertafel t.o.v. maaiveld - glg,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:watertafel,skos:Concept,watertafel,colt:parameters,,Diepte (grond)watertafel t.o.v. maaiveld,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:proefvlak_diepte,skos:Concept,proefvlak_diepte,colt:parameters,,Diepte proefvlak,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:wormgang_diepte,skos:Concept,wormgang_diepte,colt:parameters,,Diepte van de wormgangen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Difenoconazole,skos:Concept,Difenoconazole,colt:parameters,,Difenoconazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:diflufenican,skos:Concept,diflufenican,colt:parameters,,diflufenican,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dimethenamid,skos:Concept,Dimethenamid,colt:parameters,,Dimethenamid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dimethenamid_ESA,skos:Concept,Dimethenamid_ESA,colt:parameters,,Dimethenamid-ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dimethenamid_OA,skos:Concept,Dimethenamid_OA,colt:parameters,,Dimethenamid-OA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dimethoate,skos:Concept,dimethoate,colt:parameters,,dimethoate,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dimethomorph_E,skos:Concept,dimethomorph_E,colt:parameters,,dimethomorph-E,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:dimethomorph_Z,skos:Concept,dimethomorph_Z,colt:parameters,,dimethomorph-Z,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DMS,skos:Concept,DMS,colt:parameters,,dimethylsulfamide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dimetridazole,skos:Concept,Dimetridazole,colt:parameters,,Dimetridazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Dimoxystrobin,skos:Concept,Dimoxystrobin,colt:parameters,,Dimoxystrobin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:disulfoton,skos:Concept,disulfoton,colt:parameters,,disulfoton,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Diur,skos:Concept,Diur,colt:parameters,,Diuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DNOC,skos:Concept,DNOC,colt:parameters,,DNOC,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Doorlatendheid_in_tx_cel,skos:Concept,Doorlatendheid_in_tx_cel,colt:parameters,,Doorlatendheid in tx cel,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Doorlatendheid,skos:Concept,Doorlatendheid,colt:parameters,,Doorlatendheidsproef - algemeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Doorlatendheid_CV,skos:Concept,Doorlatendheid_CV,colt:parameters,,Doorlatendheidsproef- constant verval,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Doorlatendheid_VVH,skos:Concept,Doorlatendheid_VVH,colt:parameters,,Doorlatendheidsproef- veranderlijk verval - horizontaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Doorlatendheid_VVV,skos:Concept,Doorlatendheid_VVV,colt:parameters,,Doorlatendheidsproef- veranderlijk verval - verticaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:drainage_aardewerk_doorlaatbaarheid,skos:Concept,drainage_aardewerk_doorlaatbaarheid,colt:parameters,,Drainage Aardewerk-doorlaatbaarheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:drainage_aardewerk_intern,skos:Concept,drainage_aardewerk_intern,colt:parameters,,Drainage Aardewerk - interne drainage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:drainage_aardewerk_klasse,skos:Concept,drainage_aardewerk_klasse,colt:parameters,,Drainage Aardewerk - klasse,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:drainage_aardewerk_oppervlakkig,skos:Concept,drainage_aardewerk_oppervlakkig,colt:parameters,,Drainage Aardewerk - oppervlakkige drainage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:grachten,skos:Concept,grachten,colt:parameters,,(Drainage)grachten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:droogrest,skos:Concept,droogrest,colt:parameters,,droogrest,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EC,skos:Concept,EC,colt:parameters,,Elektrische geleidbaarheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:endosulfan_I,skos:Concept,endosulfan_I,colt:parameters,,Endosulfan I,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:endosulfan_II,skos:Concept,endosulfan_II,colt:parameters,,Endosulfan II,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:endosulfan_sulfaat,skos:Concept,endosulfan_sulfaat,colt:parameters,,Endosulfansulfaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Endrin,skos:Concept,Endrin,colt:parameters,,Endrin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:enkelvoudig_monster_locatie,skos:Concept,enkelvoudig_monster_locatie,colt:parameters,,Enkelvoudig monster locatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Entero,skos:Concept,Entero,colt:parameters,,Enterococcen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EpiChlo,skos:Concept,EpiChlo,colt:parameters,,Epichloorhydrine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:epoxiconazole,skos:Concept,epoxiconazole,colt:parameters,,epoxiconazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Erytro,skos:Concept,Erytro,colt:parameters,,Erytromycine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Escherichia_Coli,skos:Concept,Escherichia_Coli,colt:parameters,,Escherichia Coli,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ethion,skos:Concept,Ethion,colt:parameters,,Ethion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ethofum,skos:Concept,Ethofum,colt:parameters,,Ethofumesaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ethoprofos,skos:Concept,ethoprofos,colt:parameters,,ethoprofos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ethylbenzeen,skos:Concept,ethylbenzeen,colt:parameters,,ethylbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:etrimfos,skos:Concept,etrimfos,colt:parameters,,etrimfos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pHs,skos:Concept,pHs,colt:parameters,,evenwichtspH,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:chazr,skos:Concept,chazr,colt:parameters,,EZ-3-chlooracrylzuur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fe2o3,skos:Concept,fe2o3,colt:parameters,,fe2o3,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:FeacCol,skos:Concept,FeacCol,colt:parameters,,Feacale Coliformen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:FeacStr,skos:Concept,FeacStr,colt:parameters,,Feacale Streptococcen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fecale_colibacteriën,skos:Concept,fecale_colibacteriën,colt:parameters,,fecale colibacteriën,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fenantreen,skos:Concept,fenantreen,colt:parameters,,fenantreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fenan,skos:Concept,Fenan,colt:parameters,,Fenantreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fenazon,skos:Concept,Fenazon,colt:parameters,,Fenazon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fenitrothion,skos:Concept,fenitrothion,colt:parameters,,fenitrothion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:C6H5OH,skos:Concept,C6H5OH,colt:parameters,,Fenolen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TA,skos:Concept,TA,colt:parameters,,Fenolftaleïne-alkaliniteit,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fenoprop,skos:Concept,Fenoprop,colt:parameters,,Fenoprop,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fenpropidin,skos:Concept,Fenpropidin,colt:parameters,,Fenpropidin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fenpropimorph,skos:Concept,Fenpropimorph,colt:parameters,,Fenpropimorph,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fenthion,skos:Concept,fenthion,colt:parameters,,fenthion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:FENURON,skos:Concept,FENURON,colt:parameters,,Fenuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:flufe,skos:Concept,flufe,colt:parameters,,Flufenacet,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Flufenacet_ESA,skos:Concept,Flufenacet_ESA,colt:parameters,,Flufenacet-ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Flufenacet_OA,skos:Concept,Flufenacet_OA,colt:parameters,,Flufenacet-OA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fluopicolide,skos:Concept,fluopicolide,colt:parameters,,fluopicolide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fluopyram,skos:Concept,Fluopyram,colt:parameters,,Fluopyram,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fluoranteen,skos:Concept,fluoranteen,colt:parameters,,fluoranteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fluor,skos:Concept,Fluor,colt:parameters,,Fluoranteen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fluoreen,skos:Concept,fluoreen,colt:parameters,,fluoreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:F,skos:Concept,F,colt:parameters,,Fluoride,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fluoxastrobin,skos:Concept,Fluoxastrobin,colt:parameters,,Fluoxastrobin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fluoxetine,skos:Concept,Fluoxetine,colt:parameters,,Fluoxetine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fluroxypyr,skos:Concept,Fluroxypyr,colt:parameters,,Fluroxypyr,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:flusilasole,skos:Concept,flusilasole,colt:parameters,,flusilasole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:flutolanil,skos:Concept,flutolanil,colt:parameters,,flutolanil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:flutriafol,skos:Concept,flutriafol,colt:parameters,,flutriafol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fluxapyroxad,skos:Concept,Fluxapyroxad,colt:parameters,,Fluxapyroxad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:fonofos,skos:Concept,fonofos,colt:parameters,,fonofos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PO4,skos:Concept,PO4,colt:parameters,,Fosfaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PO4Tot,skos:Concept,PO4Tot,colt:parameters,,Fosfaat -Totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:P,skos:Concept,P,colt:parameters,,Fosfor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fosthiazate,skos:Concept,Fosthiazate,colt:parameters,,Fosthiazate,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Gabapentine,skos:Concept,Gabapentine,colt:parameters,,Gabapentine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Gehalte_Kalkachtige_stoffen,skos:Concept,Gehalte_Kalkachtige_stoffen,colt:parameters,,Gehalte Kalkachtige stoffen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Gehalte_Organische_stoffen,skos:Concept,Gehalte_Organische_stoffen,colt:parameters,,Gehalte Organische stoffen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Gehalte_wateroplosbare_Chloriden,skos:Concept,Gehalte_wateroplosbare_Chloriden,colt:parameters,,Gehalte wateroplosbare Chloriden,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ECLab,skos:Concept,ECLab,colt:parameters,,Geleidbaarheid in het labo,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ECVeld,skos:Concept,ECVeld,colt:parameters,,Geleidbaarheid op het veld,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:G_25C,skos:Concept,G_25C,colt:parameters,,geleidingsvermogen 25°C,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_afzettingswijze_laag1,skos:Concept,geologische_aard_afzettingswijze_laag1,colt:parameters,,Geologische aard - afzettingswijze laag 1,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_afzettingswijze_laag2,skos:Concept,geologische_aard_afzettingswijze_laag2,colt:parameters,,Geologische aard - afzettingswijze laag 2,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_afzettingswijze_laag3,skos:Concept,geologische_aard_afzettingswijze_laag3,colt:parameters,,Geologische aard - afzettingswijze laag 3,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_afzettingswijze_laag4,skos:Concept,geologische_aard_afzettingswijze_laag4,colt:parameters,,Geologische aard - afzettingswijze laag 4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_andere_kenmerken_laag1,skos:Concept,geologische_aard_andere_kenmerken_laag1,colt:parameters,,Geologische aard - andere kenmerken laag 1,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_andere_kenmerken_laag2,skos:Concept,geologische_aard_andere_kenmerken_laag2,colt:parameters,,Geologische aard - andere kenmerken laag 2,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_andere_kenmerken_laag3,skos:Concept,geologische_aard_andere_kenmerken_laag3,colt:parameters,,Geologische aard - andere kenmerken laag 3,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_andere_kenmerken_laag4,skos:Concept,geologische_aard_andere_kenmerken_laag4,colt:parameters,,Geologische aard - andere kenmerken laag 4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_bovenliggend_laag1,skos:Concept,geologische_aard_bovenliggend_laag1,colt:parameters,,Geologische aard - bovenliggend laag 1,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_bovenliggend_laag2,skos:Concept,geologische_aard_bovenliggend_laag2,colt:parameters,,Geologische aard - bovenliggend laag 2,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_bovenliggend_laag3,skos:Concept,geologische_aard_bovenliggend_laag3,colt:parameters,,Geologische aard - bovenliggend laag 3,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_bovenliggend_laag4,skos:Concept,geologische_aard_bovenliggend_laag4,colt:parameters,,Geologische aard - bovenliggend laag 4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_bovenliggend_laag5,skos:Concept,geologische_aard_bovenliggend_laag5,colt:parameters,,Geologische aard - bovenliggend laag 5,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_bovenliggend_laag6,skos:Concept,geologische_aard_bovenliggend_laag6,colt:parameters,,Geologische aard - bovenliggend laag 6,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_lithologie_laag1,skos:Concept,geologische_aard_lithologie_laag1,colt:parameters,,Geologische aard - lithologie laag 1,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_lithologie_laag2,skos:Concept,geologische_aard_lithologie_laag2,colt:parameters,,Geologische aard - lithologie laag 2,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_lithologie_laag3,skos:Concept,geologische_aard_lithologie_laag3,colt:parameters,,Geologische aard - lithologie laag 3,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_lithologie_laag4,skos:Concept,geologische_aard_lithologie_laag4,colt:parameters,,Geologische aard - lithologie laag 4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_lithologie_laag5,skos:Concept,geologische_aard_lithologie_laag5,colt:parameters,,Geologische aard - lithologie laag 5,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_lithologie_laag6,skos:Concept,geologische_aard_lithologie_laag6,colt:parameters,,Geologische aard - lithologie laag 6,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_tijdperk_laag1,skos:Concept,geologische_aard_tijdperk_laag1,colt:parameters,,Geologische aard - tijdperk laag 1,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_tijdperk_laag2,skos:Concept,geologische_aard_tijdperk_laag2,colt:parameters,,Geologische aard - tijdperk laag 2,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_tijdperk_laag3,skos:Concept,geologische_aard_tijdperk_laag3,colt:parameters,,Geologische aard - tijdperk laag 3,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_tijdperk_laag4,skos:Concept,geologische_aard_tijdperk_laag4,colt:parameters,,Geologische aard - tijdperk laag 4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_tijdperk_laag5,skos:Concept,geologische_aard_tijdperk_laag5,colt:parameters,,Geologische aard - tijdperk laag 5,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:geologische_aard_tijdperk_laag6,skos:Concept,geologische_aard_tijdperk_laag6,colt:parameters,,Geologische aard - tijdperk laag 6,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Grondsoort_GEO,skos:Concept,Grondsoort_GEO,colt:parameters,,GEO naam,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Glauconietgehalte_in_fractie_gt_500_microm,skos:Concept,Glauconietgehalte_in_fractie_gt_500_microm,colt:parameters,,Glauconietgehalte in fractie > 500 µm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Glauconietgehalte_in_fractie_lt_63_microm,skos:Concept,Glauconietgehalte_in_fractie_lt_63_microm,colt:parameters,,Glauconietgehalte in fractie < 63 µm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Glauconietgehalte_in_fractie_gt_63_microm,skos:Concept,Glauconietgehalte_in_fractie_gt_63_microm,colt:parameters,,Glauconietgehalte in fractie > 63 µm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Glauconietgehalte_in_fractie_63_microm_500_microm,skos:Concept,Glauconietgehalte_in_fractie_63_microm_500_microm,colt:parameters,,Glauconietgehalte in fractie 63 µm - 500 µm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Glauconiet_totaal,skos:Concept,Glauconiet_totaal,colt:parameters,,Glauconiet totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_aantal,skos:Concept,gley_roest_aantal,colt:parameters,,Gley roest - aantal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_begrenzing,skos:Concept,gley_roest_begrenzing,colt:parameters,,Gley roest - begrenzing,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_contrast,skos:Concept,gley_roest_contrast,colt:parameters,,Gley roest - contrast,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_grootte,skos:Concept,gley_roest_grootte,colt:parameters,,Gley roest - grootte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_kleur_munsell_chroma,skos:Concept,gley_roest_kleur_munsell_chroma,colt:parameters,,Gley roest - kleur volgens Munsell - CHROMA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_kleur_munsell_hue_getal,skos:Concept,gley_roest_kleur_munsell_hue_getal,colt:parameters,,Gley roest - kleur volgens Munsell - HUE_getal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_kleur_munsell_hue_letters,skos:Concept,gley_roest_kleur_munsell_hue_letters,colt:parameters,,Gley roest - kleur volgens Munsell - HUE_letters,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_kleur_munsell_value,skos:Concept,gley_roest_kleur_munsell_value,colt:parameters,,Gley roest - kleur volgens Munsell - VALUE,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_vorm,skos:Concept,gley_roest_vorm,colt:parameters,,Gley roest - vorm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Glyfos,skos:Concept,Glyfos,colt:parameters,,Glyfosaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:golflengte,skos:Concept,golflengte,colt:parameters,,Golflengte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Au,skos:Concept,Au,colt:parameters,,Goud,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vocht_gravimetrisch,skos:Concept,vocht_gravimetrisch,colt:parameters,,Gravimetrisch vochtgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Grondsoort_bepaald_op_zicht,skos:Concept,Grondsoort_bepaald_op_zicht,colt:parameters,,Grondsoort bepaald op zicht,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ASTM_naam,skos:Concept,ASTM_naam,colt:parameters,,"Grondsoort volgens ASTM, de beschrijving",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ASTM_code,skos:Concept,ASTM_code,colt:parameters,,"Grondsoort volgens ASTM, de code",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Grondsoort_BGGG,skos:Concept,Grondsoort_BGGG,colt:parameters,,Grondsoort volgens BGGG norm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:BGGG_met_detail_grind,skos:Concept,BGGG_met_detail_grind,colt:parameters,,Grondsoort volgens BGGG norm met detail grind,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:BGGG_zonder_detail_grind,skos:Concept,BGGG_zonder_detail_grind,colt:parameters,,Grondsoort volgens BGGG norm zonder detail grind,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Heptachloor,skos:Concept,Heptachloor,colt:parameters,,Heptachloor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:heptenofos,skos:Concept,heptenofos,colt:parameters,,heptenofos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HCB,skos:Concept,HCB,colt:parameters,,Hexachloorbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:hexachloorbutadieen,skos:Concept,hexachloorbutadieen,colt:parameters,,Hexachloorbutadieen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Hexaz,skos:Concept,Hexaz,colt:parameters,,Hexazinone,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:structuur_gradatie_aardewerk,skos:Concept,structuur_gradatie_aardewerk,colt:parameters,,Horizontstructuur - gradatie - aardewerk,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:structuur_gradatie_fao,skos:Concept,structuur_gradatie_fao,colt:parameters,,Horizontstructuur - gradatie - FAO,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:structuur_grootteklasse_aardewerk,skos:Concept,structuur_grootteklasse_aardewerk,colt:parameters,,Horizontstructuur - grootteklasse - aardewerk,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:structuur_grootteklasse_fao,skos:Concept,structuur_grootteklasse_fao,colt:parameters,,Horizontstructuur - grootteklasse - FAO,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:structuur_type_aardewerk,skos:Concept,structuur_type_aardewerk,colt:parameters,,Horizontstructuur - type - aardewerk,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:structuur_type_fao,skos:Concept,structuur_type_fao,colt:parameters,,Horizontstructuur - type - FAO,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:OH,skos:Concept,OH,colt:parameters,,Hydroxide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Hymexazole,skos:Concept,Hymexazole,colt:parameters,,Hymexazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ibuprofen,skos:Concept,Ibuprofen,colt:parameters,,Ibuprofen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ibupr,skos:Concept,Ibupr,colt:parameters,,Ibuprofen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fe,skos:Concept,Fe,colt:parameters,,Ijzer,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fe,skos:Concept,Fe,colt:parameters,,IJzer,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fe2+,skos:Concept,Fe2+,colt:parameters,,Ijzer II,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fe3+,skos:Concept,Fe3+,colt:parameters,,Ijzer III,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:FeTot,skos:Concept,FeTot,colt:parameters,,Ijzer - Totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Imazalil,skos:Concept,Imazalil,colt:parameters,,Imazalil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Imazamox,skos:Concept,Imazamox,colt:parameters,,Imazamox,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Imida,skos:Concept,Imida,colt:parameters,,imidacloprid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:indeno1_2_3_cdpyreen,skos:Concept,indeno1_2_3_cdpyreen,colt:parameters,,"indeno(1,2,3-cd)pyreen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Indeno,skos:Concept,Indeno,colt:parameters,,"Indeno(1,2,3-cd)pyreen",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Inorganische_koolstof,skos:Concept,Inorganische_koolstof,colt:parameters,,Inorganische koolstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:insporing_vertrappeling,skos:Concept,insporing_vertrappeling,colt:parameters,,Insporing of vertrappeling door vee,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:intestinale_enterokokken,skos:Concept,intestinale_enterokokken,colt:parameters,,intestinale enterokokken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Iomeprol,skos:Concept,Iomeprol,colt:parameters,,Iomeprol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:SomIONEN,skos:Concept,SomIONEN,colt:parameters,,Ionen(tot.),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Iopamidol,skos:Concept,Iopamidol,colt:parameters,,Iopamidol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Iopromide,skos:Concept,Iopromide,colt:parameters,,Iopromide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ioxynil,skos:Concept,Ioxynil,colt:parameters,,Ioxynil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:iprodione,skos:Concept,iprodione,colt:parameters,,iprodione,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:iP_T,skos:Concept,iP_T,colt:parameters,,i-Propyltolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Irbesartan,skos:Concept,Irbesartan,colt:parameters,,Irbesartan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Isodrin,skos:Concept,Isodrin,colt:parameters,,Isodrin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:iPB,skos:Concept,iPB,colt:parameters,,isopropyl-benzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Isoprot,skos:Concept,Isoprot,colt:parameters,,Isoproturon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Isoxaben,skos:Concept,Isoxaben,colt:parameters,,Isoxaben,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:K,skos:Concept,K,colt:parameters,,Kalium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:K,skos:Concept,K,colt:parameters,,Kalium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kalkgehalte_beschrijvend,skos:Concept,kalkgehalte_beschrijvend,colt:parameters,,Kalkgehalte_beschrijvend,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kalkreactie_hcl,skos:Concept,kalkreactie_hcl,colt:parameters,,Kalkreactie met HCL,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kat_det,skos:Concept,kat_det,colt:parameters,,kationische detergenten (cetyltrimethylamm.br),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ketoprofen,skos:Concept,Ketoprofen,colt:parameters,,Ketoprofen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NKj,skos:Concept,NKj,colt:parameters,,Kjeldahlstikstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Kleur,skos:Concept,Kleur,colt:parameters,,Kleur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_omschrijving,skos:Concept,kleur_omschrijving,colt:parameters,,Kleur omschrijving,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_chroma_1,skos:Concept,kleur_munsell_chroma_1,colt:parameters,,Kleur volgens Munsell - CHROMA (kleur1),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_chroma_2,skos:Concept,kleur_munsell_chroma_2,colt:parameters,,Kleur volgens Munsell - CHROMA (kleur2),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_chroma_3,skos:Concept,kleur_munsell_chroma_3,colt:parameters,,Kleur volgens Munsell - CHROMA (kleur3),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_hue_getal_1,skos:Concept,kleur_munsell_hue_getal_1,colt:parameters,,Kleur volgens Munsell - HUE_getal (kleur1),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_hue_getal_2,skos:Concept,kleur_munsell_hue_getal_2,colt:parameters,,Kleur volgens Munsell - HUE_getal (kleur2),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_hue_getal_3,skos:Concept,kleur_munsell_hue_getal_3,colt:parameters,,Kleur volgens Munsell - HUE_getal (kleur3),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_hue_letters_1,skos:Concept,kleur_munsell_hue_letters_1,colt:parameters,,Kleur volgens Munsell - HUE_letters (kleur1),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_hue_letters_2,skos:Concept,kleur_munsell_hue_letters_2,colt:parameters,,Kleur volgens Munsell - HUE_letters (kleur2),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_hue_letters_3,skos:Concept,kleur_munsell_hue_letters_3,colt:parameters,,Kleur volgens Munsell - HUE_letters (kleur3),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell,skos:Concept,kleur_munsell,colt:parameters,,Kleur volgens Munsell - kleurcode,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_value_1,skos:Concept,kleur_munsell_value_1,colt:parameters,,Kleur volgens Munsell - VALUE (kleur1),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_value_2,skos:Concept,kleur_munsell_value_2,colt:parameters,,Kleur volgens Munsell - VALUE (kleur2),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:kleur_munsell_value_3,skos:Concept,kleur_munsell_value_3,colt:parameters,,Kleur volgens Munsell - VALUE (kleur3),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CCl4,skos:Concept,CCl4,colt:parameters,,Koolstoftetrachloride,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CO2,skos:Concept,CO2,colt:parameters,,Koolzuur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cu,skos:Concept,Cu,colt:parameters,,Koper,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Cu,skos:Concept,Cu,colt:parameters,,Koper,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Korrelverdeling_dmv_bezinkingsproef,skos:Concept,Korrelverdeling_dmv_bezinkingsproef,colt:parameters,,Korrelverdeling d.m.v. bezinkingsproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Korrelverdeling_dmv_hydrometer_areometer,skos:Concept,Korrelverdeling_dmv_hydrometer_areometer,colt:parameters,,Korrelverdeling d.m.v. hydrometer/areometer,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Korrelverdeling_dmv_laserdiffractie,skos:Concept,Korrelverdeling_dmv_laserdiffractie,colt:parameters,,Korrelverdeling d.m.v. laserdiffractie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Korrelverdeling_dmv_pipette_methode,skos:Concept,Korrelverdeling_dmv_pipette_methode,colt:parameters,,Korrelverdeling d.m.v. pipette methode,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Korrelverdeling_dmv_sedigraaf,skos:Concept,Korrelverdeling_dmv_sedigraaf,colt:parameters,,Korrelverdeling d.m.v. sedigraaf,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Korrelverdeling_dmv_zeefproef,skos:Concept,Korrelverdeling_dmv_zeefproef,colt:parameters,,Korrelverdeling d.m.v. zeefproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Diameter,skos:Concept,Diameter,colt:parameters,,Korrelverdeling meetreeks diameter,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Fractie_met_grotere_diameter,skos:Concept,Fractie_met_grotere_diameter,colt:parameters,,Korrelverdeling meetreeks fractie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:korrelvolumemassa,skos:Concept,korrelvolumemassa,colt:parameters,,Korrelvolumemassa,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Kresoxim_methyl,skos:Concept,Kresoxim_methyl,colt:parameters,,Kresoxim-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ksat,skos:Concept,ksat,colt:parameters,,Ksat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Hg,skos:Concept,Hg,colt:parameters,,Kwik,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Hg,skos:Concept,Hg,colt:parameters,,Kwik,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:lambda_cyhalothrin_B,skos:Concept,lambda_cyhalothrin_B,colt:parameters,,lambda-cyhalothrin-B,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:landgebruik_eunis,skos:Concept,landgebruik_eunis,colt:parameters,,Landgebruik EUNIS,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:landgebruikscategorie_cmon,skos:Concept,landgebruikscategorie_cmon,colt:parameters,,Landgebruikscategorie Cmon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:landgebruik_vlaanderen,skos:Concept,landgebruik_vlaanderen,colt:parameters,,Landgebruik Vlaanderen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:lenacil,skos:Concept,lenacil,colt:parameters,,Lenacil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Lidocaine,skos:Concept,Lidocaine,colt:parameters,,Lidocaine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Lincomycine,skos:Concept,Lincomycine,colt:parameters,,Lincomycine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ghch,skos:Concept,ghch,colt:parameters,,Lindaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Linur,skos:Concept,Linur,colt:parameters,,Linuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Pb,skos:Concept,Pb,colt:parameters,,Lood,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Pb,skos:Concept,Pb,colt:parameters,,Lood,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mg,skos:Concept,Mg,colt:parameters,,Magnesium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mg_na_koken,skos:Concept,Mg_na_koken,colt:parameters,,Magnesium na koken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:malathion,skos:Concept,malathion,colt:parameters,,malathion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TAM,skos:Concept,TAM,colt:parameters,,m-alkaliniteit (methyloranje),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mandipropamid,skos:Concept,Mandipropamid,colt:parameters,,Mandipropamid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mn,skos:Concept,Mn,colt:parameters,,Mangaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:materiaal_groter_dan_1cm_massaprocent,skos:Concept,materiaal_groter_dan_1cm_massaprocent,colt:parameters,,Materiaal groter dan 1 cm massaprocent,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mcpa,skos:Concept,mcpa,colt:parameters,,MCPA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mcpb,skos:Concept,mcpb,colt:parameters,,MCPB,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mcpp,skos:Concept,mcpp,colt:parameters,,MCPP,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:m_DCB,skos:Concept,m_DCB,colt:parameters,,m-Dichloorbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mecopr,skos:Concept,Mecopr,colt:parameters,,Mecoprop,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_mediaan,skos:Concept,textuur_mediaan,colt:parameters,,Mediaan van de textuurfracties,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Meest_losse_pakking,skos:Concept,Meest_losse_pakking,colt:parameters,,Meest losse pakking,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mengmonster_aantal_steken,skos:Concept,mengmonster_aantal_steken,colt:parameters,,Mengmonster aantal steken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mengmonster_steek_id,skos:Concept,mengmonster_steek_id,colt:parameters,,Mengmonster ID steek,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mengmonster_steken_locaties,skos:Concept,mengmonster_steken_locaties,colt:parameters,,Mengmonster locaties steken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mengmonster_steek_locatie,skos:Concept,mengmonster_steek_locatie,colt:parameters,,Mengmonster locatie steek,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mengmonster_staalnamepatroon,skos:Concept,mengmonster_staalnamepatroon,colt:parameters,,Mengmonster staalnamepatroon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mesotri,skos:Concept,Mesotri,colt:parameters,,mesotrione,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:METABENZ,skos:Concept,METABENZ,colt:parameters,,Metabenzthiazuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metalaxyl,skos:Concept,metalaxyl,colt:parameters,,metalaxyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metaldehyde,skos:Concept,Metaldehyde,colt:parameters,,Metaldehyde,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metami,skos:Concept,Metami,colt:parameters,,Metamitron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metaza,skos:Concept,Metaza,colt:parameters,,Metazachloor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:meta9,skos:Concept,meta9,colt:parameters,,Metazachloor 479M09,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:meta11,skos:Concept,meta11,colt:parameters,,Metazachloor 479M11,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:meta12,skos:Concept,meta12,colt:parameters,,Metazachloor 479M12,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:meta8,skos:Concept,meta8,colt:parameters,,Metazachloor ESA (479M08),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:meta4,skos:Concept,meta4,colt:parameters,,Metazachloor OA (479M04),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metconazole,skos:Concept,Metconazole,colt:parameters,,Metconazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metformine,skos:Concept,Metformine,colt:parameters,,Metformine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Methabenz,skos:Concept,Methabenz,colt:parameters,,Methabenzthiazuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:methidathion,skos:Concept,methidathion,colt:parameters,,methidathion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:medesfenylchloridaz,skos:Concept,medesfenylchloridaz,colt:parameters,,Methyldesfenylchloridazon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TAC,skos:Concept,TAC,colt:parameters,,Methyloranje-alkaliniteit,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metobro,skos:Concept,Metobro,colt:parameters,,Metobromuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metola,skos:Concept,metola,colt:parameters,,Metolachloor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metola_ESA,skos:Concept,metola_ESA,colt:parameters,,metolachlor-ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metola_OA,skos:Concept,metola_OA,colt:parameters,,metolachlor-OA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metoprolol,skos:Concept,Metoprolol,colt:parameters,,Metoprolol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metox,skos:Concept,Metox,colt:parameters,,Metoxuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metoxychlor,skos:Concept,metoxychlor,colt:parameters,,metoxychlor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metribuzin,skos:Concept,metribuzin,colt:parameters,,Metribuzin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mevinphos,skos:Concept,mevinphos,colt:parameters,,mevinphos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_andere,skos:Concept,mineralen_andere,colt:parameters,,Mineralen - andere,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_glauconiet,skos:Concept,mineralen_glauconiet,colt:parameters,,Mineralen - glauconiet,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_kwarts,skos:Concept,mineralen_kwarts,colt:parameters,,Mineralen - kwarts,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_mica_glimm,skos:Concept,mineralen_mica_glimm,colt:parameters,,Mineralen - mica glimm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_opaal,skos:Concept,mineralen_opaal,colt:parameters,,Mineralen - opaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_rk,skos:Concept,mineralen_rk,colt:parameters,,Mineralen - rk,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_schisten,skos:Concept,mineralen_schisten,colt:parameters,,Mineralen - schisten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mineralen_veldspaat,skos:Concept,mineralen_veldspaat,colt:parameters,,Mineralen - veldspaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Minerale_Olie,skos:Concept,Minerale_Olie,colt:parameters,,Minerale Olie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Minolie,skos:Concept,Minolie,colt:parameters,,Minerale olien,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Mo,skos:Concept,Mo,colt:parameters,,Molybdeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Linur_mono,skos:Concept,Linur_mono,colt:parameters,,Monolinuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:mp_x,skos:Concept,mp_x,colt:parameters,,(m+p)xylenen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MTBE,skos:Concept,MTBE,colt:parameters,,MTBE,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Capstone_A_DPOSA,skos:Concept,Capstone_A_DPOSA,colt:parameters,,N-[3-(dimethyloxidoamino)propyl]-tridecafluoroctaansulfonamide (Capstone A (DPOSA)),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Capstone_A_DPOSA,skos:Concept,Capstone_A_DPOSA,colt:parameters,,N-[3-(dimethyloxidoamino)propyl]-tridecafluoroctaansulfonamide (Capstone A (DPOSA)),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Capstone_A_DPOSA,skos:Concept,Capstone_A_DPOSA,colt:parameters,,N-[3-(dimethyloxidoamino)propyl]-tridecafluoroctaansulfonamide (Capstone A (DPOSA)),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:naftaleen,skos:Concept,naftaleen,colt:parameters,,naftaleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Naft,skos:Concept,Naft,colt:parameters,,Naftaleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Naproxen,skos:Concept,Naproxen,colt:parameters,,Naproxen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Na,skos:Concept,Na,colt:parameters,,Natrium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:nB_B,skos:Concept,nB_B,colt:parameters,,n-Butylbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Capstone_B_CDPOS,skos:Concept,Capstone_B_CDPOS,colt:parameters,,"N-(carboxymethyl)-N,N-dimethyl-3-((((perfluorhexyl)ethyl)sulfonyl)amino)-, hydroxide (Capstone B (CDPOS))",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Capstone_B_CDPOS,skos:Concept,Capstone_B_CDPOS,colt:parameters,,"N-(carboxymethyl)-N,N-dimethyl-3-((((perfluorhexyl)ethyl)sulfonyl)amino)-, hydroxide (Capstone B (CDPOS))",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Capstone_B_CDPOS,skos:Concept,Capstone_B_CDPOS,colt:parameters,,"N-(carboxymethyl)-N,N-dimethyl-3-((((perfluorhexyl)ethyl)sulfonyl)amino)-, hydroxide (Capstone B (CDPOS))",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSA,skos:Concept,EtPFOSA,colt:parameters,,N-ethylperfluoroctaan-1-sulfonamide (EtPFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSA,skos:Concept,EtPFOSA,colt:parameters,,N-ethylperfluoroctaan-1-sulfonamide (EtPFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSA,skos:Concept,EtPFOSA,colt:parameters,,N-ethylperfluoroctaan-1-sulfonamide (EtPFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAA,skos:Concept,EtPFOSAA,colt:parameters,,N-ethylperfluoroctaansulfonamidoazijnzuur  (EtPFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAA,skos:Concept,EtPFOSAA,colt:parameters,,N-ethylperfluoroctaansulfonamidoazijnzuur  (EtPFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAA,skos:Concept,EtPFOSAA,colt:parameters,,N-ethylperfluoroctaansulfonamidoazijnzuur  (EtPFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Nicosulfuron,skos:Concept,Nicosulfuron,colt:parameters,,Nicosulfuron,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:niet_ion_detergenten,skos:Concept,niet_ion_detergenten,colt:parameters,,niet ionische detergenten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NPOC,skos:Concept,NPOC,colt:parameters,,Niet Purgeerbare Organische Koolstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ni,skos:Concept,Ni,colt:parameters,,Nikkel,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ni,skos:Concept,Ni,colt:parameters,,Nikkel,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:nirs,skos:Concept,nirs,colt:parameters,,NIRS,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:nir_spectrale_absorptie,skos:Concept,nir_spectrale_absorptie,colt:parameters,,NIR spectrale absorptie Log 1/R,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NO3,skos:Concept,NO3,colt:parameters,,Nitraat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NN,skos:Concept,NN,colt:parameters,,nitraat + nitriet,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NO2,skos:Concept,NO2,colt:parameters,,Nitriet,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFBSA,skos:Concept,MePFBSA,colt:parameters,,N-methylperfluorbutaansulfonamide (MePFBSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFBSA,skos:Concept,MePFBSA,colt:parameters,,N-methylperfluorbutaansulfonamide (MePFBSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFBSA,skos:Concept,MePFBSA,colt:parameters,,N-methylperfluorbutaansulfonamide (MePFBSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFBSAA,skos:Concept,MePFBSAA,colt:parameters,,N-methylperfluorbutaansulfonylamide azijnzuur (MePFBSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFBSAA,skos:Concept,MePFBSAA,colt:parameters,,N-methylperfluorbutaansulfonylamide azijnzuur (MePFBSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFBSAA,skos:Concept,MePFBSAA,colt:parameters,,N-methylperfluorbutaansulfonylamide azijnzuur (MePFBSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSA,skos:Concept,MePFOSA,colt:parameters,,N-methylperfluoroctaan-1-sulfonamide (MePFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSA,skos:Concept,MePFOSA,colt:parameters,,N-methylperfluoroctaan-1-sulfonamide (MePFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSA,skos:Concept,MePFOSA,colt:parameters,,N-methylperfluoroctaan-1-sulfonamide (MePFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAA,skos:Concept,MePFOSAA,colt:parameters,,N-methylperfluoroctaansulfonamidoazijnzuur  (MePFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAA,skos:Concept,MePFOSAA,colt:parameters,,N-methylperfluoroctaansulfonamidoazijnzuur  (MePFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAA,skos:Concept,MePFOSAA,colt:parameters,,N-methylperfluoroctaansulfonamidoazijnzuur  (MePFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:nP_B,skos:Concept,nP_B,colt:parameters,,n-Propylbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:o_ClT,skos:Concept,o_ClT,colt:parameters,,o-Chloortolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:o_DCB,skos:Concept,o_DCB,colt:parameters,,o-Dichloorbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PE,skos:Concept,PE,colt:parameters,,oliën en vetten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:oogstresten,skos:Concept,oogstresten,colt:parameters,,Oogstresten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:op_DDD,skos:Concept,op_DDD,colt:parameters,,op-DDD,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:op_DDE,skos:Concept,op_DDE,colt:parameters,,op-DDE,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:op_DDT,skos:Concept,op_DDT,colt:parameters,,op-DDT,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:DOC,skos:Concept,DOC,colt:parameters,,Opgeloste organische koolstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:O2,skos:Concept,O2,colt:parameters,,Opgeloste zuurstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:organische_c_perc,skos:Concept,organische_c_perc,colt:parameters,,Organische C - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:organische_c_voorraad,skos:Concept,organische_c_voorraad,colt:parameters,,Organische C - voorraad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Organische_koolstof,skos:Concept,Organische_koolstof,colt:parameters,,Organische koolstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:organische_stof,skos:Concept,organische_stof,colt:parameters,,Organische stof - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:P2O5,skos:Concept,P2O5,colt:parameters,,Orthofosfaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:oxadia,skos:Concept,oxadia,colt:parameters,,oxadiazion,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:alox,skos:Concept,alox,colt:parameters,,Oxalaat extraheerbaar aluminium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:feox,skos:Concept,feox,colt:parameters,,Oxalaat extraheerbaar ijzer,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Oxamyl,skos:Concept,Oxamyl,colt:parameters,,Oxamyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Oxyd_O2,skos:Concept,Oxyd_O2,colt:parameters,,Oxideerbaarheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:o_X,skos:Concept,o_X,colt:parameters,,o-Xyleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TAP,skos:Concept,TAP,colt:parameters,,p-alkaliniteit (fenolftaleïne),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Paracetamol,skos:Concept,Paracetamol,colt:parameters,,Paracetamol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:parathion_ethyl,skos:Concept,parathion_ethyl,colt:parameters,,parathion-ethyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:parathion_methyl,skos:Concept,parathion_methyl,colt:parameters,,parathion-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PathStaph,skos:Concept,PathStaph,colt:parameters,,Pathogene staphylococcen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_101,skos:Concept,PCB_101,colt:parameters,,PCB 101,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_118,skos:Concept,PCB_118,colt:parameters,,PCB 118,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_138,skos:Concept,PCB_138,colt:parameters,,PCB 138,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_153,skos:Concept,PCB_153,colt:parameters,,PCB 153,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_180,skos:Concept,PCB_180,colt:parameters,,PCB 180,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_28,skos:Concept,PCB_28,colt:parameters,,PCB 28,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PCB_52,skos:Concept,PCB_52,colt:parameters,,PCB 52,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:p_ClT,skos:Concept,p_ClT,colt:parameters,,p-Chloortolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:p_DCB,skos:Concept,p_DCB,colt:parameters,,p-Dichloorbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pendimethalin,skos:Concept,pendimethalin,colt:parameters,,pendimethalin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:5ClFenol,skos:Concept,5ClFenol,colt:parameters,,Pentachloorfenol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Pentoxifylline,skos:Concept,Pentoxifylline,colt:parameters,,Pentoxifylline,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:antropogeen_perc_steken,skos:Concept,antropogeen_perc_steken,colt:parameters,,Percentage steken met aanwezigheid antropogeen materiaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:compacte_laag_perc_steken,skos:Concept,compacte_laag_perc_steken,colt:parameters,,Percentage steken met aanwezigheid compacte laag,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:grind_perc_steken,skos:Concept,grind_perc_steken,colt:parameters,,Percentage steken met aanwezigheid grind (2mm - 6 cm),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:houtskool_perc_steken,skos:Concept,houtskool_perc_steken,colt:parameters,,Percentage steken met aanwezigheid houtskool,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ijzeroerlaag_perc_steken,skos:Concept,ijzeroerlaag_perc_steken,colt:parameters,,Percentage steken met aanwezigheid ijzeroerlaag,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:roest_perc_steken,skos:Concept,roest_perc_steken,colt:parameters,,Percentage steken met aanwezigheid roest,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:schelpresten_perc_steken,skos:Concept,schelpresten_perc_steken,colt:parameters,,Percentage steken met aanwezigheid schelpresten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:veen_perc_steken,skos:Concept,veen_perc_steken,colt:parameters,,Percentage steken met aanwezigheid veen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:watertafel_aanwezig_perc_steken,skos:Concept,watertafel_aanwezig_perc_steken,colt:parameters,,Percentage steken met aanwezigheid watertafel,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ClO4_,skos:Concept,ClO4_,colt:parameters,,Perchloraat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOAA,skos:Concept,PFMOAA,colt:parameters,,perfluor-2-methoxyazijnzuur (PFMOAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOAA,skos:Concept,PFMOAA,colt:parameters,,perfluor-2-methoxyazijnzuur (PFMOAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOAA,skos:Concept,PFMOAA,colt:parameters,,perfluor-2-methoxyazijnzuur (PFMOAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HFPO_DA,skos:Concept,HFPO_DA,colt:parameters,,perfluor-2-propoxypropaanzuur (HFPO-DA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HFPO_DA,skos:Concept,HFPO_DA,colt:parameters,,perfluor-2-propoxypropaanzuur (HFPO-DA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:HFPO_DA,skos:Concept,HFPO_DA,colt:parameters,,perfluor-2-propoxypropaanzuur (HFPO-DA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO4DA,skos:Concept,PFO4DA,colt:parameters,,"perfluor-3,5,7,9-tetraoxadecaanzuur (PFO4DA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO4DA,skos:Concept,PFO4DA,colt:parameters,,"perfluor-3,5,7,9-tetraoxadecaanzuur (PFO4DA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO4DA,skos:Concept,PFO4DA,colt:parameters,,"perfluor-3,5,7,9-tetraoxadecaanzuur (PFO4DA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO3OA,skos:Concept,PFO3OA,colt:parameters,,"perfluor-3,5,7-trioxaoctaanzuur (PFO3OA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO3OA,skos:Concept,PFO3OA,colt:parameters,,"perfluor-3,5,7-trioxaoctaanzuur (PFO3OA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO3OA,skos:Concept,PFO3OA,colt:parameters,,"perfluor-3,5,7-trioxaoctaanzuur (PFO3OA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO2HxA,skos:Concept,PFO2HxA,colt:parameters,,"perfluor-3,5-dioxahexaanzuur  (PFO2HxA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO2HxA,skos:Concept,PFO2HxA,colt:parameters,,"perfluor-3,5-dioxahexaanzuur  (PFO2HxA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFO2HxA,skos:Concept,PFO2HxA,colt:parameters,,"perfluor-3,5-dioxahexaanzuur  (PFO2HxA)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:P37DMOA,skos:Concept,P37DMOA,colt:parameters,,perfluor-3-7-dimethyloctaanzuur (P37DMOA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:P37DMOA,skos:Concept,P37DMOA,colt:parameters,,perfluor-3-7-dimethyloctaanzuur (P37DMOA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:P37DMOA,skos:Concept,P37DMOA,colt:parameters,,perfluor-3-7-dimethyloctaanzuur (P37DMOA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOPrA,skos:Concept,PFMOPrA,colt:parameters,,perfluor-3-methoxypropaanzuur (PFMOPrA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOPrA,skos:Concept,PFMOPrA,colt:parameters,,perfluor-3-methoxypropaanzuur (PFMOPrA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOPrA,skos:Concept,PFMOPrA,colt:parameters,,perfluor-3-methoxypropaanzuur (PFMOPrA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFECHS,skos:Concept,PFECHS,colt:parameters,,perfluor-4-ethylcyclohexaansulfonzuur (PFECHS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFECHS,skos:Concept,PFECHS,colt:parameters,,perfluor-4-ethylcyclohexaansulfonzuur (PFECHS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFECHS,skos:Concept,PFECHS,colt:parameters,,perfluor-4-ethylcyclohexaansulfonzuur (PFECHS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOBA,skos:Concept,PFMOBA,colt:parameters,,perfluor-4-methoxybutaanzuur (PFMOBA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOBA,skos:Concept,PFMOBA,colt:parameters,,perfluor-4-methoxybutaanzuur (PFMOBA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFMOBA,skos:Concept,PFMOBA,colt:parameters,,perfluor-4-methoxybutaanzuur (PFMOBA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBSA,skos:Concept,PFBSA,colt:parameters,,perfluorbutaansulfonamide (PFBSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBSA,skos:Concept,PFBSA,colt:parameters,,perfluorbutaansulfonamide (PFBSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBSA,skos:Concept,PFBSA,colt:parameters,,perfluorbutaansulfonamide (PFBSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBS,skos:Concept,PFBS,colt:parameters,,perfluorbutaansulfonzuur (PFBS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBS,skos:Concept,PFBS,colt:parameters,,perfluorbutaansulfonzuur (PFBS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBS,skos:Concept,PFBS,colt:parameters,,perfluorbutaansulfonzuur (PFBS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBA,skos:Concept,PFBA,colt:parameters,,perfluorbutaanzuur (PFBA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBA,skos:Concept,PFBA,colt:parameters,,perfluorbutaanzuur (PFBA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFBA,skos:Concept,PFBA,colt:parameters,,perfluorbutaanzuur (PFBA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDA,skos:Concept,PFDA,colt:parameters,,perfluordecaanzuur (PFDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDA,skos:Concept,PFDA,colt:parameters,,perfluordecaanzuur (PFDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDA,skos:Concept,PFDA,colt:parameters,,perfluordecaanzuur (PFDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHpS,skos:Concept,PFHpS,colt:parameters,,perfluorheptaansulfonzuur (PFHpS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHpS,skos:Concept,PFHpS,colt:parameters,,perfluorheptaansulfonzuur (PFHpS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHpS,skos:Concept,PFHpS,colt:parameters,,perfluorheptaansulfonzuur (PFHpS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHpA,skos:Concept,PFHpA,colt:parameters,,perfluorheptaanzuur (PFHpA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHpA,skos:Concept,PFHpA,colt:parameters,,perfluorheptaanzuur (PFHpA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHpA,skos:Concept,PFHpA,colt:parameters,,perfluorheptaanzuur (PFHpA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxSA,skos:Concept,PFHxSA,colt:parameters,,perfluorhexaansulfonamide (PFHxSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxSA,skos:Concept,PFHxSA,colt:parameters,,perfluorhexaansulfonamide (PFHxSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxSA,skos:Concept,PFHxSA,colt:parameters,,perfluorhexaansulfonamide (PFHxSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxS,skos:Concept,PFHxS,colt:parameters,,perfluorhexaansulfonzuur (PFHxS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxS,skos:Concept,PFHxS,colt:parameters,,perfluorhexaansulfonzuur (PFHxS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxS,skos:Concept,PFHxS,colt:parameters,,perfluorhexaansulfonzuur (PFHxS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxA,skos:Concept,PFHxA,colt:parameters,,perfluorhexaanzuur (PFHxA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxA,skos:Concept,PFHxA,colt:parameters,,perfluorhexaanzuur (PFHxA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxA,skos:Concept,PFHxA,colt:parameters,,perfluorhexaanzuur (PFHxA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxDA,skos:Concept,PFHxDA,colt:parameters,,perfluorhexadecaanzuur (PFHxDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxDA,skos:Concept,PFHxDA,colt:parameters,,perfluorhexadecaanzuur (PFHxDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxDA,skos:Concept,PFHxDA,colt:parameters,,perfluorhexadecaanzuur (PFHxDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDS,skos:Concept,PFDS,colt:parameters,,perfluor-n-decaansulfonzuur (PFDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDS,skos:Concept,PFDS,colt:parameters,,perfluor-n-decaansulfonzuur (PFDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDS,skos:Concept,PFDS,colt:parameters,,perfluor-n-decaansulfonzuur (PFDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDoDS,skos:Concept,PFDoDS,colt:parameters,,perfluor-n-dodecaansulfonzuur (PFDoDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDoDS,skos:Concept,PFDoDS,colt:parameters,,perfluor-n-dodecaansulfonzuur (PFDoDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDoDS,skos:Concept,PFDoDS,colt:parameters,,perfluor-n-dodecaansulfonzuur (PFDoDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDoDA,skos:Concept,PFDoDA,colt:parameters,,perfluor-n-dodecaanzuur (PFDoDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDoDA,skos:Concept,PFDoDA,colt:parameters,,perfluor-n-dodecaanzuur (PFDoDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFDoDA,skos:Concept,PFDoDA,colt:parameters,,perfluor-n-dodecaanzuur (PFDoDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSbranched,skos:Concept,PFOSbranched,colt:parameters,,perfluor-n-octaansulfonzuur vertakt (PFOSbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSbranched,skos:Concept,PFOSbranched,colt:parameters,,perfluor-n-octaansulfonzuur vertakt (PFOSbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSbranched,skos:Concept,PFOSbranched,colt:parameters,,perfluor-n-octaansulfonzuur vertakt (PFOSbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOAbranched,skos:Concept,PFOAbranched,colt:parameters,,perfluor-n-octaanzuur vertakt (PFOAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOAbranched,skos:Concept,PFOAbranched,colt:parameters,,perfluor-n-octaanzuur vertakt (PFOAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOAbranched,skos:Concept,PFOAbranched,colt:parameters,,perfluor-n-octaanzuur vertakt (PFOAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFNS,skos:Concept,PFNS,colt:parameters,,perfluornonaansulfonzuur (PFNS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFNS,skos:Concept,PFNS,colt:parameters,,perfluornonaansulfonzuur (PFNS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFNS,skos:Concept,PFNS,colt:parameters,,perfluornonaansulfonzuur (PFNS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFNA,skos:Concept,PFNA,colt:parameters,,perfluornonaanzuur (PFNA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFNA,skos:Concept,PFNA,colt:parameters,,perfluornonaanzuur (PFNA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFNA,skos:Concept,PFNA,colt:parameters,,perfluornonaanzuur (PFNA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeDA,skos:Concept,PFPeDA,colt:parameters,,perfluor-n-pentadecaanzuur (PFPeDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeDA,skos:Concept,PFPeDA,colt:parameters,,perfluor-n-pentadecaanzuur (PFPeDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeDA,skos:Concept,PFPeDA,colt:parameters,,perfluor-n-pentadecaanzuur (PFPeDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTeDA,skos:Concept,PFTeDA,colt:parameters,,perfluor-n-tetradecaanzuur (PFTeDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTeDA,skos:Concept,PFTeDA,colt:parameters,,perfluor-n-tetradecaanzuur (PFTeDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTeDA,skos:Concept,PFTeDA,colt:parameters,,perfluor-n-tetradecaanzuur (PFTeDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTrDS,skos:Concept,PFTrDS,colt:parameters,,perfluor-n-tridecaansulfonzuur (PFTrDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTrDS,skos:Concept,PFTrDS,colt:parameters,,perfluor-n-tridecaansulfonzuur (PFTrDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTrDS,skos:Concept,PFTrDS,colt:parameters,,perfluor-n-tridecaansulfonzuur (PFTrDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTrDA,skos:Concept,PFTrDA,colt:parameters,,perfluor-n-tridecaanzuur (PFTrDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTrDA,skos:Concept,PFTrDA,colt:parameters,,perfluor-n-tridecaanzuur (PFTrDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFTrDA,skos:Concept,PFTrDA,colt:parameters,,perfluor-n-tridecaanzuur (PFTrDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFUnDS,skos:Concept,PFUnDS,colt:parameters,,perfluor-n-undecaansulfonzuur (PFUnDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFUnDS,skos:Concept,PFUnDS,colt:parameters,,perfluor-n-undecaansulfonzuur (PFUnDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFUnDS,skos:Concept,PFUnDS,colt:parameters,,perfluor-n-undecaansulfonzuur (PFUnDS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFUnDA,skos:Concept,PFUnDA,colt:parameters,,perfluor-n-undecaanzuur (PFUnDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFUnDA,skos:Concept,PFUnDA,colt:parameters,,perfluor-n-undecaanzuur (PFUnDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFUnDA,skos:Concept,PFUnDA,colt:parameters,,perfluor-n-undecaanzuur (PFUnDA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSA,skos:Concept,PFOSA,colt:parameters,,perfluoroctaansulfonamide (PFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSA,skos:Concept,PFOSA,colt:parameters,,perfluoroctaansulfonamide (PFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSA,skos:Concept,PFOSA,colt:parameters,,perfluoroctaansulfonamide (PFOSA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAbranched,skos:Concept,PFOSAbranched,colt:parameters,,perfluoroctaansulfonamide vertakt (PFOSAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAbranched,skos:Concept,PFOSAbranched,colt:parameters,,perfluoroctaansulfonamide vertakt (PFOSAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAbranched,skos:Concept,PFOSAbranched,colt:parameters,,perfluoroctaansulfonamide vertakt (PFOSAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAA,skos:Concept,PFOSAA,colt:parameters,,perfluoroctaansulfonamidoazijnzuur (PFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAA,skos:Concept,PFOSAA,colt:parameters,,perfluoroctaansulfonamidoazijnzuur (PFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAA,skos:Concept,PFOSAA,colt:parameters,,perfluoroctaansulfonamidoazijnzuur (PFOSAA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOS,skos:Concept,PFOS,colt:parameters,,perfluoroctaansulfonzuur (PFOS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOS,skos:Concept,PFOS,colt:parameters,,perfluoroctaansulfonzuur (PFOS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOS,skos:Concept,PFOS,colt:parameters,,perfluoroctaansulfonzuur (PFOS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOA,skos:Concept,PFOA,colt:parameters,,perfluoroctaanzuur (PFOA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOA,skos:Concept,PFOA,colt:parameters,,perfluoroctaanzuur (PFOA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOA,skos:Concept,PFOA,colt:parameters,,perfluoroctaanzuur (PFOA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFODA,skos:Concept,PFODA,colt:parameters,,perfluoroctadecaanzuur (PFODA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFODA,skos:Concept,PFODA,colt:parameters,,perfluoroctadecaanzuur (PFODA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFODA,skos:Concept,PFODA,colt:parameters,,perfluoroctadecaanzuur (PFODA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeS,skos:Concept,PFPeS,colt:parameters,,perfluorpentaansulfonzuur (PFPeS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeS,skos:Concept,PFPeS,colt:parameters,,perfluorpentaansulfonzuur (PFPeS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeS,skos:Concept,PFPeS,colt:parameters,,perfluorpentaansulfonzuur (PFPeS),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeA,skos:Concept,PFPeA,colt:parameters,,perfluorpentaanzuur (PFPeA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeA,skos:Concept,PFPeA,colt:parameters,,perfluorpentaanzuur (PFPeA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFPeA,skos:Concept,PFPeA,colt:parameters,,perfluorpentaanzuur (PFPeA),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pest_tot,skos:Concept,pest_tot,colt:parameters,,Pesticiden Totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Pethoxamide,skos:Concept,Pethoxamide,colt:parameters,,Pethoxamide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFAS_EFSA_4,skos:Concept,PFAS_EFSA_4,colt:parameters,,PFAS (EFSA-4),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFAS_EFSA_4,skos:Concept,PFAS_EFSA_4,colt:parameters,,PFAS (EFSA-4),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFAS_EFSA_4,skos:Concept,PFAS_EFSA_4,colt:parameters,,PFAS (EFSA-4),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFAS_EU_DWRL_20,skos:Concept,PFAS_EU_DWRL_20,colt:parameters,,PFAS (EU DWRL-20),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFAS_EU_DWRL_20,skos:Concept,PFAS_EU_DWRL_20,colt:parameters,,PFAS (EU DWRL-20),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFAS_EU_DWRL_20,skos:Concept,PFAS_EU_DWRL_20,colt:parameters,,PFAS (EU DWRL-20),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ph_cacl2,skos:Concept,ph_cacl2,colt:parameters,,pH CaCl2,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ph_h2o,skos:Concept,ph_h2o,colt:parameters,,pH H2O,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pH_in_situ,skos:Concept,pH_in_situ,colt:parameters,,pH in situ,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ph_kcl,skos:Concept,ph_kcl,colt:parameters,,pH KCl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pirimicarb,skos:Concept,pirimicarb,colt:parameters,,pirimicarb,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pirimiphos_methyl,skos:Concept,pirimiphos_methyl,colt:parameters,,pirimiphos-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:p_isopropyltolueen,skos:Concept,p_isopropyltolueen,colt:parameters,,p-isopropyltolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PAK_tot,skos:Concept,PAK_tot,colt:parameters,,Polycyclische aromatische koolwaterstoffen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pp_DDD,skos:Concept,pp_DDD,colt:parameters,,pp-DDD,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pp_DDE,skos:Concept,pp_DDE,colt:parameters,,pp-DDE,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pp_DDT,skos:Concept,pp_DDT,colt:parameters,,pp-DDT,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Primd,skos:Concept,Primd,colt:parameters,,Primidon,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Prometr,skos:Concept,Prometr,colt:parameters,,Prometryn,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PropaCl,skos:Concept,PropaCl,colt:parameters,,Propachloor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Propachlor_ESA,skos:Concept,Propachlor_ESA,colt:parameters,,Propachlor-ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Propamocarb,skos:Concept,Propamocarb,colt:parameters,,Propamocarb,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Propan,skos:Concept,Propan,colt:parameters,,Propanil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Propaz,skos:Concept,Propaz,colt:parameters,,Propazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:propham,skos:Concept,propham,colt:parameters,,propham,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Propranolol,skos:Concept,Propranolol,colt:parameters,,Propranolol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Propyzamide,skos:Concept,Propyzamide,colt:parameters,,Propyzamide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:prosulfocarb,skos:Concept,prosulfocarb,colt:parameters,,prosulfocarb,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pseudomonas_aeruginosa,skos:Concept,pseudomonas_aeruginosa,colt:parameters,,pseudomonas aeruginosa,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Pymetrozine,skos:Concept,Pymetrozine,colt:parameters,,Pymetrozine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Pyraclostrobin,skos:Concept,Pyraclostrobin,colt:parameters,,Pyraclostrobin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pyreen,skos:Concept,pyreen,colt:parameters,,pyreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pyrimethanil,skos:Concept,pyrimethanil,colt:parameters,,pyrimethanil,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Quinmerac,skos:Concept,Quinmerac,colt:parameters,,Quinmerac,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:quintozene,skos:Concept,quintozene,colt:parameters,,Quintozene,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Eh,skos:Concept,Eh,colt:parameters,,Redoxpotentiaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:reductie,skos:Concept,reductie,colt:parameters,,Reductie in horizont(ja/nee),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Reflectiviteit,skos:Concept,Reflectiviteit,colt:parameters,,Reflectiviteit,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_aanwezigheid,skos:Concept,relief_helling_aanwezigheid,colt:parameters,,Reliëf - aanwezigheid helling,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_aard,skos:Concept,relief_aard,colt:parameters,,Reliëf - aard,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_expositie,skos:Concept,relief_expositie,colt:parameters,,Reliëf - expositie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_lengte_geschat,skos:Concept,relief_helling_lengte_geschat,colt:parameters,,Reliëf - geschatte lengte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_enkelvoudig,skos:Concept,relief_helling_enkelvoudig,colt:parameters,,Reliëf - helling enkelvoudig,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_meervoudig,skos:Concept,relief_helling_meervoudig,colt:parameters,,Reliëf - helling meervoudig,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_landvorm,skos:Concept,relief_landvorm,colt:parameters,,Reliëf - landvorm,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_microrelief,skos:Concept,relief_microrelief,colt:parameters,,Reliëf - microreliëf,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_positie,skos:Concept,relief_helling_positie,colt:parameters,,Reliëf - positie op de helling,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_situering,skos:Concept,relief_situering,colt:parameters,,Reliëf - situering,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_type,skos:Concept,relief_helling_type,colt:parameters,,Reliëf - type helling,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:relief_helling_vorm,skos:Concept,relief_helling_vorm,colt:parameters,,Reliëf - vorm van de helling,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:resultaattijd,skos:Concept,resultaattijd,colt:parameters,,Resultaattijd,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Reuk,skos:Concept,Reuk,colt:parameters,,Reuk,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:gley_roest_kleur_omschrijving,skos:Concept,gley_roest_kleur_omschrijving,colt:parameters,,Roest - kleur omschrijving,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Samendrukking,skos:Concept,Samendrukking,colt:parameters,,Samendrukkingsproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Saturatie_Index,skos:Concept,Saturatie_Index,colt:parameters,,Saturatie Index,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Schuifweerstand,skos:Concept,Schuifweerstand,colt:parameters,,Schuifweerstandskarakteristieken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Schuifweerstand_CD,skos:Concept,Schuifweerstand_CD,colt:parameters,,Schuifweerstandskarakteristieken Consolidated Drained,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Schuifweerstand_CU,skos:Concept,Schuifweerstand_CU,colt:parameters,,Schuifweerstandskarakteristieken Consolidated Undrained,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Schuifweerstand_UU,skos:Concept,Schuifweerstand_UU,colt:parameters,,Schuifweerstandskarakteristieken Unconsolidated Undrained,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sebu,skos:Concept,Sebu,colt:parameters,,Sebuthylazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sB_B,skos:Concept,sB_B,colt:parameters,,sec.-Butylbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Se,skos:Concept,Se,colt:parameters,,Seleen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Si,skos:Concept,Si,colt:parameters,,silicium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:SiO2,skos:Concept,SiO2,colt:parameters,,Siliciumoxide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Simaz,skos:Concept,Simaz,colt:parameters,,Simazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Smaak,skos:Concept,Smaak,colt:parameters,,Smaak,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Metola_S_ESA,skos:Concept,Metola_S_ESA,colt:parameters,,S-Metolachloor ESA,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:metola_S,skos:Concept,metola_S,colt:parameters,,S-Metolachlor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:SomAN,skos:Concept,SomAN,colt:parameters,,Som anionen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:SomKAT,skos:Concept,SomKAT,colt:parameters,,Som kationen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Borneff_4,skos:Concept,Borneff_4,colt:parameters,,Som van de 4 van Borneff,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Borneff_6,skos:Concept,Borneff_6,colt:parameters,,Som van de 6 van Borneff,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sorptie_min_fractie,skos:Concept,sorptie_min_fractie,colt:parameters,,Sorptie minerale fractie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sorptie_org_fractie,skos:Concept,sorptie_org_fractie,colt:parameters,,Sorptie organische fractie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sorptie_totaal,skos:Concept,sorptie_totaal,colt:parameters,,Sorptie totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sorptie_totaal_hcl,skos:Concept,sorptie_totaal_hcl,colt:parameters,,Sorptie totaal HCL,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sorptie_totaal_nh4cl,skos:Concept,sorptie_totaal_nh4cl,colt:parameters,,Sorptie totaal NH4Cl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:sorptie_verzadigingsgraad,skos:Concept,sorptie_verzadigingsgraad,colt:parameters,,Sorptie verzadigingsgraad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sotalol,skos:Concept,Sotalol,colt:parameters,,Sotalol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sotal,skos:Concept,Sotal,colt:parameters,,Sotalol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:antropogeen_specificatie,skos:Concept,antropogeen_specificatie,colt:parameters,,Specificatie van antropogeen materiaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Spiroxamine,skos:Concept,Spiroxamine,colt:parameters,,Spiroxamine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ssra,skos:Concept,ssra,colt:parameters,,sporen van sulfietreducerende anaeroben,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Standaard_proctorproef,skos:Concept,Standaard_proctorproef,colt:parameters,,Standaard proctorproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:StartTemperatuur,skos:Concept,StartTemperatuur,colt:parameters,,StartTemperatuur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:stenen,skos:Concept,stenen,colt:parameters,,Stenen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Stijghoogte_sensor,skos:Concept,Stijghoogte_sensor,colt:parameters,,Stijghoogte - sensor in mTAW,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sr,skos:Concept,Sr,colt:parameters,,Strontium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:strooisellaag_viltlaag_dikte,skos:Concept,strooisellaag_viltlaag_dikte,colt:parameters,,Strooisellaag of viltlaag - dikte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:strooisellaag_viltlaag_massa,skos:Concept,strooisellaag_viltlaag_massa,colt:parameters,,Strooisellaag of viltlaag - massa,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:strooisellaag_viltlaag_organische_c_voorraad,skos:Concept,strooisellaag_viltlaag_organische_c_voorraad,colt:parameters,,Strooisellaag of viltlaag - organische C - voorraad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:strooisellaag_viltlaag_totale_c_perc,skos:Concept,strooisellaag_viltlaag_totale_c_perc,colt:parameters,,Strooisellaag of viltlaag - totale C - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:strooisellaag_viltlaag_totale_n_perc,skos:Concept,strooisellaag_viltlaag_totale_n_perc,colt:parameters,,Strooisellaag of viltlaag - totale N - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:strooisellaag_viltlaag_totale_n_voorraad,skos:Concept,strooisellaag_viltlaag_totale_n_voorraad,colt:parameters,,Strooisellaag of viltlaag - totale N - voorraad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:styreen,skos:Concept,styreen,colt:parameters,,styreen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sulcotrione,skos:Concept,Sulcotrione,colt:parameters,,Sulcotrione,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:SO4,skos:Concept,SO4,colt:parameters,,Sulfaat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Suldiaz,skos:Concept,Suldiaz,colt:parameters,,Sulfadiazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sulmethox,skos:Concept,Sulmethox,colt:parameters,,Sulfamethoxazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sulfamethoxazole,skos:Concept,Sulfamethoxazole,colt:parameters,,Sulfamethoxazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clostridia,skos:Concept,Clostridia,colt:parameters,,Sulfiet reducerende clostridia,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:t_chlordaan,skos:Concept,t_chlordaan,colt:parameters,,t_chlordaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:tebuconazole,skos:Concept,tebuconazole,colt:parameters,,tebuconazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:boor_techniek,skos:Concept,boor_techniek,colt:parameters,,Techniek van de boring,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Tecnazene,skos:Concept,Tecnazene,colt:parameters,,"Tecnazene ( of 2,3,5,6-Tetrachloornitrobenzeen)",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:telodrin,skos:Concept,telodrin,colt:parameters,,Telodrin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Temperatuur,skos:Concept,Temperatuur,colt:parameters,,Temperatuur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:T,skos:Concept,T,colt:parameters,,Temperatuur,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:temp_bodem,skos:Concept,temp_bodem,colt:parameters,,Temperatuur bodem,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:temp_corr,skos:Concept,temp_corr,colt:parameters,,Temperatuur correctie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Templucht,skos:Concept,Templucht,colt:parameters,,Temperatuur lucht,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TempTP_Geleidbaarh,skos:Concept,TempTP_Geleidbaarh,colt:parameters,,Temperatuur ter plaatse geleidbaarheidsmeter,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TempTP_pH,skos:Concept,TempTP_pH,colt:parameters,,Temperatuur ter plaatse pH-meter,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TempTP_O2,skos:Concept,TempTP_O2,colt:parameters,,Temperatuur ter plaatse zuurstofmeter,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Temp,skos:Concept,Temp,colt:parameters,,Temperatuur (veld),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:temp_water,skos:Concept,temp_water,colt:parameters,,Temperatuur water,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:terbufos,skos:Concept,terbufos,colt:parameters,,terbufos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Terbutryn,skos:Concept,Terbutryn,colt:parameters,,Terbutryn,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Terbu,skos:Concept,Terbu,colt:parameters,,Terbutylazine,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:tB_B,skos:Concept,tB_B,colt:parameters,,tert.-Butylbenzeen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Per,skos:Concept,Per,colt:parameters,,tetrachlooretheen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:tri_en_tetra,skos:Concept,tri_en_tetra,colt:parameters,,Tetrachlooretheen en trichlooretheen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:tetrachloormethaan,skos:Concept,tetrachloormethaan,colt:parameters,,tetrachloormethaan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Tetrahydrofuraan,skos:Concept,Tetrahydrofuraan,colt:parameters,,Tetrahydrofuraan,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_fractie_klei,skos:Concept,textuur_fractie_klei,colt:parameters,,Textuur - fractie klei,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_fractie_leem,skos:Concept,textuur_fractie_leem,colt:parameters,,Textuur - fractie leem,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuurmeting,skos:Concept,textuurmeting,colt:parameters,,Textuurfracties,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuurmeting_laser_volumeprocent,skos:Concept,textuurmeting_laser_volumeprocent,colt:parameters,,Textuurfracties laser volumeprocent,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_fractie_zand,skos:Concept,textuur_fractie_zand,colt:parameters,,Textuur - fractie zand,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_granulometrisch_bodemkaart,skos:Concept,textuur_granulometrisch_bodemkaart,colt:parameters,,Textuur - granulometrie - klasse bodemkartering,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_granulometrisch_gedetailleerd,skos:Concept,textuur_granulometrisch_gedetailleerd,colt:parameters,,Textuur - granulometrisch - gedetailleerd,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_granulometrisch_bodemkartering_met_Zg,skos:Concept,textuur_granulometrisch_bodemkartering_met_Zg,colt:parameters,,Textuur - granulometrisch - klassen bodemkartering met Zg,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_fractie_groter_dan_2000,skos:Concept,textuur_fractie_groter_dan_2000,colt:parameters,,Textuur - grove fractie (groter dan 2000 µm),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_fractie_groter_dan_2000_volumeprocent,skos:Concept,textuur_fractie_groter_dan_2000_volumeprocent,colt:parameters,,Textuur - grove fractie (groter dan 2000 µm) volumeprocent,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_palpatie_fout_groter_dan_5_procent,skos:Concept,textuur_palpatie_fout_groter_dan_5_procent,colt:parameters,,Textuur - handmatig - fout groter dan 5%,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_palpatie_gedetailleerd,skos:Concept,textuur_palpatie_gedetailleerd,colt:parameters,,Textuur - handmatig - gedetailleerd,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_palpatie_bodemkartering,skos:Concept,textuur_palpatie_bodemkartering,colt:parameters,,Textuur - handmatig - klassen bodemkartering,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_palpatie_mtr,skos:Concept,textuur_palpatie_mtr,colt:parameters,,Textuur - handmatig - klassen MTR,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_procent_org_mat_h2o2,skos:Concept,textuur_procent_org_mat_h2o2,colt:parameters,,Textuur - percentage org. materiaal H2O2 30%,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:textuur_type_zand,skos:Concept,textuur_type_zand,colt:parameters,,Textuur - type zand,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Tha,skos:Concept,Tha,colt:parameters,,Thallium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:t_heptachloorepoxide,skos:Concept,t_heptachloorepoxide,colt:parameters,,t_heptachloorepoxide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Colibact_44,skos:Concept,Colibact_44,colt:parameters,,Thermotolerante Coli bacteriën,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:ttc,skos:Concept,ttc,colt:parameters,,thermotolerante coliformen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Thiabendazole,skos:Concept,Thiabendazole,colt:parameters,,Thiabendazole,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Thiacloprid,skos:Concept,Thiacloprid,colt:parameters,,Thiacloprid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Thiamethoxam,skos:Concept,Thiamethoxam,colt:parameters,,Thiamethoxam,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Thiophanate_methyl,skos:Concept,Thiophanate_methyl,colt:parameters,,Thiophanate-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Htmp,skos:Concept,Htmp,colt:parameters,,Tijdelijke hardheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Sn,skos:Concept,Sn,colt:parameters,,Tin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ti,skos:Concept,Ti,colt:parameters,,titanium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:tolchlophos_methyl,skos:Concept,tolchlophos_methyl,colt:parameters,,tolchlophos-methyl,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:C7H8,skos:Concept,C7H8,colt:parameters,,Tolueen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Topramezone,skos:Concept,Topramezone,colt:parameters,,Topramezone,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:totaal_BTEX,skos:Concept,totaal_BTEX,colt:parameters,,totaal BTEX,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Kiem22C,skos:Concept,Kiem22C,colt:parameters,,Totaal Kiemgetal (22°C),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Kiem37C,skos:Concept,Kiem37C,colt:parameters,,Totaal Kiemgetal (37°C),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAtotal,skos:Concept,EtPFOSAtotal,colt:parameters,,totaal N-ethylperfluoroctaansulfonamide (lineair + vertakt) (EtPFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAtotal,skos:Concept,EtPFOSAtotal,colt:parameters,,totaal N-ethylperfluoroctaansulfonamide (lineair + vertakt) (EtPFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAtotal,skos:Concept,EtPFOSAtotal,colt:parameters,,totaal N-ethylperfluoroctaansulfonamide (lineair + vertakt) (EtPFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAbranched,skos:Concept,EtPFOSAbranched,colt:parameters,,totaal N-ethylperfluoroctaansulfonamide (vertakt) (EtPFOSAbranchedl),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAbranched,skos:Concept,EtPFOSAbranched,colt:parameters,,totaal N-ethylperfluoroctaansulfonamide (vertakt) (EtPFOSAbranchedl),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:EtPFOSAbranched,skos:Concept,EtPFOSAbranched,colt:parameters,,totaal N-ethylperfluoroctaansulfonamide (vertakt) (EtPFOSAbranchedl),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAtotal,skos:Concept,MePFOSAtotal,colt:parameters,,totaal N-methylperfluoroctaansulfonamide (lineair + vertakt) (MePFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAtotal,skos:Concept,MePFOSAtotal,colt:parameters,,totaal N-methylperfluoroctaansulfonamide (lineair + vertakt) (MePFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAtotal,skos:Concept,MePFOSAtotal,colt:parameters,,totaal N-methylperfluoroctaansulfonamide (lineair + vertakt) (MePFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAbranched,skos:Concept,MePFOSAbranched,colt:parameters,,totaal N-methylperfluoroctaansulfonamide (vertakt) (MePFOSAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAbranched,skos:Concept,MePFOSAbranched,colt:parameters,,totaal N-methylperfluoroctaansulfonamide (vertakt) (MePFOSAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:MePFOSAbranched,skos:Concept,MePFOSAbranched,colt:parameters,,totaal N-methylperfluoroctaansulfonamide (vertakt) (MePFOSAbranched),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TOC,skos:Concept,TOC,colt:parameters,,Totaal organische koolstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxStotal,skos:Concept,PFHxStotal,colt:parameters,,totaal perfluorhexaansulfonzuur (lineair + vertakt) (PFHxStotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxStotal,skos:Concept,PFHxStotal,colt:parameters,,totaal perfluorhexaansulfonzuur (lineair + vertakt) (PFHxStotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxStotal,skos:Concept,PFHxStotal,colt:parameters,,totaal perfluorhexaansulfonzuur (lineair + vertakt) (PFHxStotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxSbranched,skos:Concept,PFHxSbranched,colt:parameters,,totaal perfluorhexaansulfonzuur (vertakt) (PFHxSbranchedl),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxSbranched,skos:Concept,PFHxSbranched,colt:parameters,,totaal perfluorhexaansulfonzuur (vertakt) (PFHxSbranchedl),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFHxSbranched,skos:Concept,PFHxSbranched,colt:parameters,,totaal perfluorhexaansulfonzuur (vertakt) (PFHxSbranchedl),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOStotal,skos:Concept,PFOStotal,colt:parameters,,totaal perfluor-n-octaansulfonzuur (lineair + vertakt) (PFOStotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOStotal,skos:Concept,PFOStotal,colt:parameters,,totaal perfluor-n-octaansulfonzuur (lineair + vertakt) (PFOStotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOStotal,skos:Concept,PFOStotal,colt:parameters,,totaal perfluor-n-octaansulfonzuur (lineair + vertakt) (PFOStotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOAtotal,skos:Concept,PFOAtotal,colt:parameters,,totaal perfluor-n-octaanzuur (lineair + vertakt) (PFOAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOAtotal,skos:Concept,PFOAtotal,colt:parameters,,totaal perfluor-n-octaanzuur (lineair + vertakt) (PFOAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOAtotal,skos:Concept,PFOAtotal,colt:parameters,,totaal perfluor-n-octaanzuur (lineair + vertakt) (PFOAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAtotal,skos:Concept,PFOSAtotal,colt:parameters,,totaal perfluoroctaansulfonamide (lineair + vertakt) (PFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAtotal,skos:Concept,PFOSAtotal,colt:parameters,,totaal perfluoroctaansulfonamide (lineair + vertakt) (PFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:PFOSAtotal,skos:Concept,PFOSAtotal,colt:parameters,,totaal perfluoroctaansulfonamide (lineair + vertakt) (PFOSAtotal),,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TDS,skos:Concept,TDS,colt:parameters,,Total dissolved solids,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:totale_colibacteriën,skos:Concept,totale_colibacteriën,colt:parameters,,totale colibacteriën,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:totale_c_perc,skos:Concept,totale_c_perc,colt:parameters,,Totale C - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:P_totaal,skos:Concept,P_totaal,colt:parameters,,Totale fosfor,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Htot,skos:Concept,Htot,colt:parameters,,Totale Hardheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Totale_koolstof,skos:Concept,Totale_koolstof,colt:parameters,,Totale koolstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:totale_n_perc,skos:Concept,totale_n_perc,colt:parameters,,Totale N - percentage,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:totale_n_voorraad,skos:Concept,totale_n_voorraad,colt:parameters,,Totale N - voorraad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:N_totaal,skos:Concept,N_totaal,colt:parameters,,Totale stikstof,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Tramadol,skos:Concept,Tramadol,colt:parameters,,Tramadol,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Triallate,skos:Concept,Triallate,colt:parameters,,Triallate,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:triazoph,skos:Concept,triazoph,colt:parameters,,triazophos,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Tri,skos:Concept,Tri,colt:parameters,,Trichlooretheen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:TCB_tot,skos:Concept,TCB_tot,colt:parameters,,Trichlorobenzenen totaal,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:trichlorpyr,skos:Concept,trichlorpyr,colt:parameters,,trichlorpyr,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Triflox,skos:Concept,Triflox,colt:parameters,,trifloxystrobin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:trifluralin,skos:Concept,trifluralin,colt:parameters,,trifluralin,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:THM_tot,skos:Concept,THM_tot,colt:parameters,,Trihalomethanen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Trimethoprim,skos:Concept,Trimethoprim,colt:parameters,,Trimethoprim,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Troebelheid,skos:Concept,Troebelheid,colt:parameters,,Troebelheid,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NTU,skos:Concept,NTU,colt:parameters,,Turbiditeit,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:boor_type,skos:Concept,boor_type,colt:parameters,,Type van de boring,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:exch_ca,skos:Concept,exch_ca,colt:parameters,,Uitwisselbare calcium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:exch_k,skos:Concept,exch_k,colt:parameters,,Uitwisselbare K,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:exch_mg,skos:Concept,exch_mg,colt:parameters,,Uitwisselbare magnesium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:V,skos:Concept,V,colt:parameters,,Vanadium,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vegetatie,skos:Concept,vegetatie,colt:parameters,,vegetatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vegetatie,skos:Concept,vegetatie,colt:parameters,,Vegetatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Verassingresten_600,skos:Concept,Verassingresten_600,colt:parameters,,Verassingresten/600°C,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Verdampingsresten_105,skos:Concept,Verdampingsresten_105,colt:parameters,,Verdampingsresten/105°C,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Versterkte_proctorproef,skos:Concept,Versterkte_proctorproef,colt:parameters,,Versterkte proctorproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Vinproef,skos:Concept,Vinproef,colt:parameters,,Vinproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:VC,skos:Concept,VC,colt:parameters,,Vinylchloride,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:VIS,skos:Concept,VIS,colt:parameters,,VIS-01,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Vluchtige_bestanddelen,skos:Concept,Vluchtige_bestanddelen,colt:parameters,,Vluchtige bestanddelen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:VOC1,skos:Concept,VOC1,colt:parameters,,VOC1,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Clostr_Sporen,skos:Concept,Clostr_Sporen,colt:parameters,,VOC1 4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vocht_gradatie,skos:Concept,vocht_gradatie,colt:parameters,,Vochtgehalte gradatie,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vocht_gradatie_archeologie,skos:Concept,vocht_gradatie_archeologie,colt:parameters,,"Vochtgehalte gradatie: nat, vochtig, droog",,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vocht_luchtdroge_grond,skos:Concept,vocht_luchtdroge_grond,colt:parameters,,Vochtgehalte luchtdroge grond,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Vochtspanning,skos:Concept,Vochtspanning,colt:parameters,,Vochtspanning,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:volumemassa_nat,skos:Concept,volumemassa_nat,colt:parameters,,Volumemassa nat,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Volumetrisch_vochtgehalte,skos:Concept,Volumetrisch_vochtgehalte,colt:parameters,,Volumetrisch vochtgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vocht_volumetrisch,skos:Concept,vocht_volumetrisch,colt:parameters,,Volumetrisch vochtgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Volumetrisch_vochtgehalte,skos:Concept,Volumetrisch_vochtgehalte,colt:parameters,,Volumetrisch vochtgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:voorbehandeling_observatie_type_bewaring,skos:Concept,voorbehandeling_observatie_type_bewaring,colt:parameters,,Voorbehandeling observatie type bewaring,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:voorbehandeling_observatie_type_breken,skos:Concept,voorbehandeling_observatie_type_breken,colt:parameters,,Voorbehandeling observatie type breken,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:voorbehandeling_observatie_type_droging,skos:Concept,voorbehandeling_observatie_type_droging,colt:parameters,,Voorbehandeling observatie type drogen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:voorbehandeling_observatie_type_malen,skos:Concept,voorbehandeling_observatie_type_malen,colt:parameters,,Voorbehandeling observatie type malen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:voorbehandeling_observatie_type_zeven,skos:Concept,voorbehandeling_observatie_type_zeven,colt:parameters,,Voorbehandeling observatie type zeven,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vrij_cyanide,skos:Concept,vrij_cyanide,colt:parameters,,vrij cyanide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:vrije_Clresten,skos:Concept,vrije_Clresten,colt:parameters,,vrije chloorresten,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:CO2vrij,skos:Concept,CO2vrij,colt:parameters,,vrij kooldioxide,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:warme_KMnO4,skos:Concept,warme_KMnO4,colt:parameters,,warme KMnO4,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:watergehalte,skos:Concept,watergehalte,colt:parameters,,Watergehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:watertafel_aanwezig,skos:Concept,watertafel_aanwezig,colt:parameters,,Watertafel aanwezig binnen profielput of boring,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:weersomstandigheden,skos:Concept,weersomstandigheden,colt:parameters,,Weersomstandigheden,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:weersomstandigheden_huidig,skos:Concept,weersomstandigheden_huidig,colt:parameters,,Weersomstandigheden huidig,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:weersomstandigheden_huidig_fao,skos:Concept,weersomstandigheden_huidig_fao,colt:parameters,,Weersomstandigheden_huidig volgens FAO,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:weersomstandigheden_verleden,skos:Concept,weersomstandigheden_verleden,colt:parameters,,Weersomstandigheden verleden,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:weersomstandigheden_verleden_fao,skos:Concept,weersomstandigheden_verleden_fao,colt:parameters,,Weersomstandigheden_verleden volgens FAO,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:wetland,skos:Concept,wetland,colt:parameters,,Wetland,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:xylenen,skos:Concept,xylenen,colt:parameters,,xylenen,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Ag,skos:Concept,Ag,colt:parameters,,Zilver,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Zn,skos:Concept,Zn,colt:parameters,,Zink,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Zn,skos:Concept,Zn,colt:parameters,,Zink,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:NaCl,skos:Concept,NaCl,colt:parameters,,Zoutgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pH,skos:Concept,pH,colt:parameters,,Zuurtegraad,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pHLab,skos:Concept,pHLab,colt:parameters,,Zuurtegraad in het labo,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:pHVeld,skos:Concept,pHVeld,colt:parameters,,Zuurtegraad op het veld,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:S,skos:Concept,S,colt:parameters,,Zwavel,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Zwavelgehalte,skos:Concept,Zwavelgehalte,colt:parameters,,Zwavelgehalte,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Zwelproef,skos:Concept,Zwelproef,colt:parameters,,Zwelproef,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Zwevende_stoffen_105,skos:Concept,Zwevende_stoffen_105,colt:parameters,,Zwevende stoffen/105°C,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
+ct:Zwevende_stoffen_600,skos:Concept,Zwevende_stoffen_600,colt:parameters,,Zwevende stoffen/600°C,,,,,,,,,,,,,cs:parameter,,,,,,,cs:parameter
