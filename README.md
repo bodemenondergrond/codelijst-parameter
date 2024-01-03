@@ -1,8 +1,8 @@
-# codelijst-parameters
+# codelijst-parameter
 
 ## Samenvatting
 
-De codelijst 'parameters' bevat eenduidige benamingen van ...
+De codelijst 'parameter' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

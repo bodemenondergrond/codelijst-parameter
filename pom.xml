@@ -8,17 +8,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>be.vlaanderen.bodemenondergrond.data.id.graph</groupId> <!-- e.g. be.vlaanderen.bodemenondergrond.data.id.graph -->
-  <artifactId>codelijst-parameters</artifactId> <!-- e.g. codelijst-testrepo -->
-  <version>0.1.1-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
+  <artifactId>codelijst-parameter</artifactId> <!-- e.g. codelijst-testrepo -->
+  <version>0.1.0-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
   <packaging>jar</packaging>
 
-  <name>codelijst-parameters</name> <!-- e.g. codelijst-testrepo -->
+  <name>codelijst-parameter</name> <!-- e.g. codelijst-testrepo -->
 
 
   <scm>
-        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-parameters.git</connection>
-        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-parameters.git</developerConnection>
-        <url>https://github.com/bodemenondergrond/codelijst-parameters.git</url>
+        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-parameter.git</connection>
+        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-parameter.git</developerConnection>
+        <url>https://github.com/bodemenondergrond/codelijst-parameter.git</url>
     <tag>HEAD</tag>
   </scm>
   <build>
